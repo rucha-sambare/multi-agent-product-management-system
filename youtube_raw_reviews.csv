@@ -1,0 +1,3 @@
+app_id,app_name,review_text,rating,thumbs_up,review_date,reply_text,reply_date,source
+com.google.android.apps.automotive.youtube,youtube,Functions but buggy,3,482,2026-01-11 15:34:31,,,play_store
+com.google.android.apps.automotive.youtube,youtube,"YouTube for android automotive works in the car while stopped, but it doesn't support YouTube Premium which is supposed to allow background playback. It pauses BOTH video & audio payback while driving. I want it to continue playing just the audio while driving.",3,5377,2024-11-21 18:23:37,,,play_store

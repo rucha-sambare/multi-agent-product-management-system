@@ -1,0 +1,51 @@
+{
+  "Bug": {
+    "precision": 1.0,
+    "recall": 0.9103448275862069,
+    "f1-score": 0.9530685920577617,
+    "support": 725.0
+  },
+  "Complaint": {
+    "precision": 0.9335799292376971,
+    "recall": 0.9705734826952015,
+    "f1-score": 0.9517173538814657,
+    "support": 5981.0
+  },
+  "Feature Request": {
+    "precision": 1.0,
+    "recall": 0.9987789987789988,
+    "f1-score": 0.9993891264508247,
+    "support": 819.0
+  },
+  "Performance Issue": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 800.0
+  },
+  "Praise": {
+    "precision": 0.9734379716269242,
+    "recall": 0.9489480653229366,
+    "f1-score": 0.961037026000149,
+    "support": 6797.0
+  },
+  "UI Issue": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 800.0
+  },
+  "accuracy": 0.9630071599045346,
+  "macro avg": {
+    "precision": 0.9845029834774368,
+    "recall": 0.9714408957305573,
+    "f1-score": 0.9775353497317002,
+    "support": 15922.0
+  },
+  "weighted avg": {
+    "precision": 0.963710554573475,
+    "recall": 0.9630071599045346,
+    "f1-score": 0.9630614610660193,
+    "support": 15922.0
+  }
+}

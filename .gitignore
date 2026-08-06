@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+.env
+.venv/
+venv/
+reports/
+AI_Product_Manager/data/runs/
+AI_Product_Manager/data/chroma/
+

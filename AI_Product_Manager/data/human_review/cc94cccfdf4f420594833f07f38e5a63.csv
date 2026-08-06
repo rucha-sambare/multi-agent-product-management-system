@@ -1,0 +1,560 @@
+app_id,app_name,review_text,rating,thumbs_up,review_date,reply_text,reply_date,source,clean_text,category,prediction_confidence,needs_human_review,sentiment_score,sentiment,dedupe_method,duplicate_group,duplicate_count,priority_score,priority
+com.facebook.lite,Facebook,superb!,4,0,2026-07-29 09:25:43,,,play_store,superb!,Praise,0.8592688,True,0,Neutral,tfidf_fallback,1,1,1.77,Low
+com.facebook.lite,Facebook,Facebook lite is cool,5,0,2026-07-29 09:24:17,,,play_store,facebook lite is cool,Praise,0.49730486,True,0,Neutral,tfidf_fallback,2,1,1.02,Low
+com.facebook.lite,Facebook,i like it,5,0,2026-07-29 09:23:32,,,play_store,i like it,Praise,0.8379439,True,0,Neutral,tfidf_fallback,3,5,1.844,Low
+com.facebook.lite,Facebook,👍,5,0,2026-07-29 09:16:56,,,play_store,👍,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,4,1,3.52,Low
+com.facebook.lite,Facebook,salamat,5,0,2026-07-29 09:12:41,,,play_store,salamat,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,5,1,3.52,Low
+com.facebook.lite,Facebook,najmul,5,0,2026-07-29 09:12:09,,,play_store,najmul,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,6,1,3.52,Low
+com.facebook.lite,Facebook,utujui,2,0,2026-07-29 09:01:54,,,play_store,utujui,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,10,1,5.77,Medium
+com.facebook.lite,Facebook,give us new updates,3,0,2026-07-29 08:58:48,,,play_store,give us new updates,Complaint,0.44131657,True,0,Neutral,tfidf_fallback,11,1,5.02,Medium
+com.facebook.lite,Facebook,extra cool,5,0,2026-07-29 08:53:35,,,play_store,extra cool,Praise,0.64848256,True,0,Neutral,tfidf_fallback,12,1,1.02,Low
+com.facebook.lite,Facebook,i support this app,5,0,2026-07-29 08:52:31,,,play_store,i support this app,Feature Request,0.49334893,True,0,Neutral,tfidf_fallback,13,1,2.52,Low
+com.facebook.lite,Facebook,cool cool chhe Aare bhai ye sab tiwgcm veer veer bhul bhuk desh teen,4,0,2026-07-29 08:47:30,,,play_store,cool cool chhe aare bhai ye sab tiwgcm veer veer bhul bhuk desh teen,Praise,0.7438201,True,0,Neutral,tfidf_fallback,14,1,1.77,Low
+com.facebook.lite,Facebook,its showing wrong data maximum time,1,0,2026-07-29 08:32:48,,,play_store,its showing wrong data maximum time,Complaint,0.6333159,True,0,Neutral,tfidf_fallback,16,1,6.52,High
+com.facebook.lite,Facebook,very very happy facebook use me and happy knowledge me in facebook i like lite facebook and useful,5,0,2026-07-29 08:20:56,,,play_store,very very happy facebook use me and happy knowledge me in facebook i like lite facebook and useful,Praise,0.67419976,True,1,Positive,tfidf_fallback,18,1,1.02,Low
+com.facebook.lite,Facebook,very beautiful 💓,4,0,2026-07-29 08:19:40,,,play_store,very beautiful 💓,Praise,0.9143159,True,0,Neutral,tfidf_fallback,19,1,1.77,Low
+com.facebook.lite,Facebook,og MaL,5,0,2026-07-29 08:17:33,,,play_store,og mal,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,20,1,3.52,Low
+com.facebook.lite,Facebook,ধন্যবাদ সবাইকে সব কিছুর জন্য 🥰🥰,5,0,2026-07-29 08:17:13,,,play_store,ধন্যবাদ সবাইকে সব কিছুর জন্য 🥰🥰,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,21,1,3.52,Low
+com.facebook.lite,Facebook,kobe golo,1,0,2026-07-29 08:16:52,,,play_store,kobe golo,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,22,1,6.52,High
+com.facebook.lite,Facebook,সুমন ভাইয়ের বাইক ট্যুর So beautiful apps,5,0,2026-07-29 07:58:32,,,play_store,সুমন ভাইয়ের বাইক ট্যুর so beautiful apps,Praise,0.868179,True,0,Neutral,tfidf_fallback,25,1,1.02,Low
+com.facebook.lite,Facebook,"this app is abnormally function, you will hear some music when you open it.",1,0,2026-07-29 07:53:41,,,play_store,"this app is abnormally function, you will hear some music when you open it.",Praise,0.5225178,True,0,Neutral,tfidf_fallback,26,1,4.02,Medium
+com.facebook.lite,Facebook,جيد جدا افتح,3,0,2026-07-29 07:47:17,,,play_store,جيد جدا افتح,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,27,1,5.02,Medium
+com.facebook.lite,Facebook,i am paula paciteng lucioc,5,0,2026-07-29 07:45:40,,,play_store,i am paula paciteng lucioc,Praise,0.7606238,True,0,Neutral,tfidf_fallback,28,1,1.02,Low
+com.facebook.lite,Facebook,Piss poor,1,0,2026-07-29 07:40:19,,,play_store,piss poor,Complaint,0.8530732,True,0,Neutral,tfidf_fallback,29,1,6.52,High
+com.facebook.lite,Facebook,විදුෂාන්,5,0,2026-07-29 07:40:02,,,play_store,විදුෂාන්,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,30,1,3.52,Low
+com.facebook.lite,Facebook,Harish saud,1,0,2026-07-29 07:38:33,,,play_store,harish saud,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,32,1,6.52,High
+com.facebook.lite,Facebook,हाय 🖐️,5,0,2026-07-29 07:38:20,,,play_store,हाय 🖐️,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,33,1,3.52,Low
+com.facebook.lite,Facebook,execelent,5,0,2026-07-29 07:34:48,,,play_store,execelent,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,34,1,3.52,Low
+com.facebook.lite,Facebook,there's a bug I keep removing the other account of my friends who log on my phone but it keep coming back,2,1,2026-07-29 07:31:34,,,play_store,there's a bug i keep removing the other account of my friends who log on my phone but it keep coming back,Bug,0.67384624,True,-1,Negative,tfidf_fallback,35,1,7.116,High
+com.facebook.lite,Facebook,nic,5,0,2026-07-29 07:30:05,,,play_store,nic,Complaint,0.7052186,True,0,Neutral,tfidf_fallback,36,1,3.52,Low
+com.facebook.lite,Facebook,"Dear facebook team Please help My facebook account has been disabled without any reason...and i am not break any rules of facebook, so pls i request you pls check my account again and back me as soon as posible My account Rahul Singh",2,0,2026-07-29 07:25:11,,,play_store,"dear facebook team please help my facebook account has been disabled without any reason...and i am not break any rules of facebook, so pls i request you pls check my account again and back me as soon as posible my account rahul singh",Complaint,0.9089325,True,0,Neutral,tfidf_fallback,37,1,5.77,Medium
+com.facebook.lite,Facebook,jos,5,0,2026-07-29 07:15:22,,,play_store,jos,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,39,1,3.52,Low
+com.facebook.lite,Facebook,too much scam,1,1,2026-07-29 07:02:05,,,play_store,too much scam,Complaint,0.5906918,True,0,Neutral,tfidf_fallback,41,1,6.866,High
+com.facebook.lite,Facebook,love Facebook,5,0,2026-07-29 06:40:16,,,play_store,love facebook,Praise,0.9383652,True,1,Positive,tfidf_fallback,43,3,1.54,Low
+com.facebook.lite,Facebook,Tôi thực sự yêu nó nhưng có thể nó sẽ tiếp tục tốt đẹp và không bao giờ quay trở lại,5,0,2026-07-29 06:29:46,,,play_store,tôi thực sự yêu nó nhưng có thể nó sẽ tiếp tục tốt đẹp và không bao giờ quay trở lại,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,44,1,3.52,Low
+com.facebook.lite,Facebook,pat 2,5,0,2026-07-29 06:22:55,,,play_store,pat 2,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,46,1,3.52,Low
+com.facebook.lite,Facebook,great,4,1,2026-07-29 06:21:58,,,play_store,great,Praise,0.94572586,True,1,Positive,tfidf_fallback,47,9,3.324,Low
+com.facebook.lite,Facebook,Like,5,0,2026-07-29 06:09:37,,,play_store,like,Praise,0.656874,True,0,Neutral,tfidf_fallback,49,4,1.707,Low
+com.facebook.lite,Facebook,okyyy,3,0,2026-07-29 06:08:26,,,play_store,okyyy,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,50,1,5.02,Medium
+com.facebook.lite,Facebook,♥️❤️‍🔥,5,0,2026-07-29 06:07:14,,,play_store,♥️❤️‍🔥,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,51,1,3.52,Low
+com.facebook.lite,Facebook,install facebook,5,0,2026-07-29 05:50:35,,,play_store,install facebook,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,53,1,3.52,Low
+com.facebook.lite,Facebook,i like these ap because i can cummonicate with others,5,1,2026-07-29 05:35:28,,,play_store,i like these ap because i can cummonicate with others,Complaint,0.6253873,True,0,Neutral,tfidf_fallback,57,1,3.866,Low
+com.facebook.lite,Facebook,open my face book,4,0,2026-07-29 05:35:22,,,play_store,open my face book,Complaint,0.46372166,True,0,Neutral,tfidf_fallback,58,1,4.27,Medium
+com.facebook.lite,Facebook,slow,1,0,2026-07-29 05:25:03,,,play_store,slow,Complaint,0.8532818,True,-1,Negative,tfidf_fallback,60,2,6.824,High
+com.facebook.lite,Facebook,i love it when I make friends and meet more people it like travelling around the world,4,0,2026-07-29 05:00:44,,,play_store,i love it when i make friends and meet more people it like travelling around the world,Complaint,0.5710523,True,1,Positive,tfidf_fallback,63,1,4.27,Medium
+com.facebook.lite,Facebook,ভালোই,5,0,2026-07-29 04:56:26,,,play_store,ভালোই,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,64,1,3.52,Low
+com.facebook.lite,Facebook,❤️,5,0,2026-07-29 04:56:04,,,play_store,❤️,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,65,1,3.52,Low
+com.facebook.lite,Facebook,Stargold,5,0,2026-07-29 04:52:54,,,play_store,stargold,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,66,1,3.52,Low
+com.facebook.lite,Facebook,Ok,5,0,2026-07-29 04:50:45,,,play_store,ok,Praise,0.54720646,True,0,Neutral,tfidf_fallback,68,12,2.424,Low
+com.facebook.lite,Facebook,thank you app,5,1,2026-07-29 04:31:03,,,play_store,thank you app,Praise,0.87441474,True,0,Neutral,tfidf_fallback,70,1,1.366,Low
+com.facebook.lite,Facebook,essier to comunacate,5,0,2026-07-29 04:26:30,,,play_store,essier to comunacate,Complaint,0.46235487,True,0,Neutral,tfidf_fallback,72,1,3.52,Low
+com.facebook.lite,Facebook,iloveyou,5,0,2026-07-29 04:15:26,,,play_store,iloveyou,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,73,1,3.52,Low
+com.facebook.lite,Facebook,allow us to have the access to log in with no approval needed,1,0,2026-07-29 04:15:21,,,play_store,allow us to have the access to log in with no approval needed,Complaint,0.9213689,True,0,Neutral,tfidf_fallback,74,1,6.52,High
+com.facebook.lite,Facebook,awesome,5,0,2026-07-29 04:08:38,,,play_store,awesome,Praise,0.9367801,True,0,Neutral,tfidf_fallback,76,10,2.298,Low
+com.facebook.lite,Facebook,i like to close my Facebook account and delete my profile,1,0,2026-07-29 04:06:27,,,play_store,i like to close my facebook account and delete my profile,Complaint,0.9165072,True,0,Neutral,tfidf_fallback,77,1,6.52,High
+com.facebook.lite,Facebook,hlela,1,0,2026-07-29 04:02:58,,,play_store,hlela,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,79,1,6.52,High
+com.facebook.lite,Facebook,Qamarzaman,1,0,2026-07-29 04:01:11,,,play_store,qamarzaman,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,80,1,6.52,High
+com.facebook.lite,Facebook,BRING BACK MY ACCOUNT,1,0,2026-07-29 03:51:11,,,play_store,bring back my account,Complaint,0.6335938,True,0,Neutral,tfidf_fallback,81,1,6.52,High
+com.facebook.lite,Facebook,ang pangit ni facebook Ngayon,1,0,2026-07-29 03:44:49,,,play_store,ang pangit ni facebook ngayon,Complaint,0.57694805,True,0,Neutral,tfidf_fallback,82,1,6.52,High
+com.facebook.lite,Facebook,I will 0,5,0,2026-07-29 03:39:52,,,play_store,i will 0,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,83,1,3.52,Low
+com.facebook.lite,Facebook,I highly recommend this page because of its original and engaging content.,5,0,2026-07-29 03:35:14,,,play_store,i highly recommend this page because of its original and engaging content.,Complaint,0.6479413,True,0,Neutral,tfidf_fallback,85,1,3.52,Low
+com.facebook.lite,Facebook,I have more expries,5,1,2026-07-29 03:32:53,,,play_store,i have more expries,Complaint,0.5129584,True,0,Neutral,tfidf_fallback,87,1,3.866,Low
+com.facebook.lite,Facebook,Everything I have ever dreamt of is in one app,5,0,2026-07-29 03:22:57,,,play_store,everything i have ever dreamt of is in one app,Complaint,0.67049986,True,0,Neutral,tfidf_fallback,90,1,3.52,Low
+com.facebook.lite,Facebook,tanginamo nananahimik account ko d-disable mo nanaman,1,0,2026-07-29 03:22:26,,,play_store,tanginamo nananahimik account ko d-disable mo nanaman,Complaint,0.55378157,True,0,Neutral,tfidf_fallback,91,1,6.52,High
+com.facebook.lite,Facebook,happy,5,0,2026-07-29 03:18:11,,,play_store,happy,Praise,0.68591714,True,0,Neutral,tfidf_fallback,92,2,1.324,Low
+com.facebook.lite,Facebook,lovely 😍,5,0,2026-07-29 03:17:29,,,play_store,lovely 😍,Praise,0.7293676,True,0,Neutral,tfidf_fallback,93,4,1.707,Low
+com.facebook.lite,Facebook,fahim,3,0,2026-07-29 03:10:58,,,play_store,fahim,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,94,1,5.02,Medium
+com.facebook.lite,Facebook,😍😍😍,5,0,2026-07-29 03:02:19,,,play_store,😍😍😍,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,95,1,3.52,Low
+com.facebook.lite,Facebook,So far I'm enjoying the app no complaints currently,5,0,2026-07-29 03:01:13,,,play_store,so far i'm enjoying the app no complaints currently,Complaint,0.940277,True,0,Neutral,tfidf_fallback,96,1,3.52,Low
+com.facebook.lite,Facebook,Nigeria,5,0,2026-07-29 02:53:19,,,play_store,nigeria,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,98,1,3.52,Low
+com.facebook.lite,Facebook,"Pilnie poszukujemy (6 mężczyzn lub kobiet) osób do pracy przy ulotkach. Wszystkie prace będą wykonywane w domu. Praca polega na pakowaniu listów lub innych materiałów do kopert i pudełek, a następnie wysyłaniu ich pocztą.",5,0,2026-07-29 02:48:24,,,play_store,"pilnie poszukujemy (6 mężczyzn lub kobiet) osób do pracy przy ulotkach. wszystkie prace będą wykonywane w domu. praca polega na pakowaniu listów lub innych materiałów do kopert i pudełek, a następnie wysyłaniu ich pocztą.",Complaint,0.6626958,True,0,Neutral,tfidf_fallback,100,1,3.52,Low
+com.facebook.lite,Facebook,it's is so goodddddd,5,0,2026-07-29 02:32:51,,,play_store,it's is so goodddddd,Praise,0.6916893,True,0,Neutral,tfidf_fallback,103,1,1.02,Low
+com.facebook.lite,Facebook,ok,5,0,2026-07-29 02:29:07,,,play_store,ok,Praise,0.54720646,True,0,Neutral,tfidf_fallback,68,12,2.424,Low
+com.facebook.lite,Facebook,Beautiful,5,0,2026-07-29 02:27:47,,,play_store,beautiful,Praise,0.8441094,True,0,Neutral,tfidf_fallback,105,2,1.324,Low
+com.facebook.lite,Facebook,goood,5,1,2026-07-29 02:26:24,,,play_store,goood,Praise,0.624853,True,0,Neutral,tfidf_fallback,106,2,1.671,Low
+com.facebook.lite,Facebook,great service,4,1,2026-07-29 02:23:35,,,play_store,great service,Praise,0.94572586,True,1,Positive,tfidf_fallback,108,1,2.116,Low
+com.facebook.lite,Facebook,always alhamdulilah,5,0,2026-07-29 02:16:09,,,play_store,always alhamdulilah,Complaint,0.5341623,True,0,Neutral,tfidf_fallback,109,1,3.52,Low
+com.facebook.lite,Facebook,I'm fully excited with the app,5,0,2026-07-29 01:53:07,,,play_store,i'm fully excited with the app,Complaint,0.44982937,True,0,Neutral,tfidf_fallback,111,1,3.52,Low
+com.facebook.lite,Facebook,"a subscription smoke alarm, 100% NO , is that even EU compliant",1,0,2026-07-29 01:45:39,,,play_store,"a subscription smoke alarm, 100% no , is that even eu compliant",Complaint,0.84884936,True,0,Neutral,tfidf_fallback,114,1,6.52,High
+com.facebook.lite,Facebook,i need to push account,5,0,2026-07-29 01:39:06,,,play_store,i need to push account,Complaint,0.5721581,True,0,Neutral,tfidf_fallback,115,1,3.52,Low
+com.facebook.lite,Facebook,optional,5,1,2026-07-29 01:36:24,,,play_store,optional,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,116,1,3.866,Low
+com.facebook.lite,Facebook,rasel,5,1,2026-07-29 01:34:43,,,play_store,rasel,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,117,1,3.866,Low
+com.facebook.lite,Facebook,Very enjoyable,5,0,2026-07-29 01:31:51,,,play_store,very enjoyable,Praise,0.5928665,True,0,Neutral,tfidf_fallback,118,1,1.02,Low
+com.facebook.lite,Facebook,Music 🎶 and Dancing,5,0,2026-07-29 01:31:04,,,play_store,music 🎶 and dancing,Praise,0.4508993,True,0,Neutral,tfidf_fallback,119,1,1.02,Low
+com.facebook.lite,Facebook,👍,5,0,2026-07-29 01:25:57,,,play_store,👍,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,120,1,3.52,Low
+com.facebook.lite,Facebook,submit,5,0,2026-07-29 01:25:36,,,play_store,submit,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,121,1,3.52,Low
+com.facebook.lite,Facebook,👀💪,5,0,2026-07-29 01:22:36,,,play_store,👀💪,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,122,1,3.52,Low
+com.facebook.lite,Facebook,Alii yuusuf,5,0,2026-07-29 01:19:53,,,play_store,alii yuusuf,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,123,1,3.52,Low
+com.facebook.lite,Facebook,very perfect,5,0,2026-07-29 01:19:00,,,play_store,very perfect,Praise,0.86913,True,0,Neutral,tfidf_fallback,124,1,1.02,Low
+com.facebook.lite,Facebook,😮‍💨,5,0,2026-07-29 01:16:52,,,play_store,😮‍💨,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,125,1,3.52,Low
+com.facebook.lite,Facebook,habibu musa,5,0,2026-07-29 01:12:46,,,play_store,habibu musa,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,126,1,3.52,Low
+com.facebook.lite,Facebook,zomba,5,1,2026-07-29 01:08:43,,,play_store,zomba,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,127,1,3.866,Low
+com.facebook.lite,Facebook,awesome,5,0,2026-07-29 01:05:43,,,play_store,awesome,Praise,0.9367801,True,0,Neutral,tfidf_fallback,76,10,2.298,Low
+com.facebook.lite,Facebook,am aman of no nonsense but good in talking,5,0,2026-07-29 01:04:18,,,play_store,am aman of no nonsense but good in talking,Complaint,0.9145975,True,1,Positive,tfidf_fallback,128,1,3.52,Low
+com.facebook.lite,Facebook,natural taste of goodies,5,0,2026-07-29 00:59:54,,,play_store,natural taste of goodies,Complaint,0.6729315,True,0,Neutral,tfidf_fallback,129,1,3.52,Low
+com.facebook.lite,Facebook,(000000000000∅000000000000000),5,0,2026-07-29 00:48:40,,,play_store,(000000000000∅000000000000000),Complaint,0.46711525,True,0,Neutral,tfidf_fallback,130,1,3.52,Low
+com.facebook.lite,Facebook,i love Facebook,5,0,2026-07-29 00:48:12,,,play_store,i love facebook,Praise,0.9383652,True,1,Positive,tfidf_fallback,43,3,1.54,Low
+com.facebook.lite,Facebook,💘,5,0,2026-07-29 00:47:14,,,play_store,💘,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,131,1,3.52,Low
+com.facebook.lite,Facebook,Mazba,5,0,2026-07-29 00:46:59,,,play_store,mazba,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,133,1,3.52,Low
+com.facebook.lite,Facebook,sorry,5,0,2026-07-29 00:46:16,,,play_store,sorry,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,134,1,3.52,Low
+com.facebook.lite,Facebook,Amazing,5,0,2026-07-29 00:40:27,,,play_store,amazing,Praise,0.8699503,True,1,Positive,tfidf_fallback,135,10,2.298,Low
+com.facebook.lite,Facebook,🔥🔥🔥,5,0,2026-07-29 00:35:59,,,play_store,🔥🔥🔥,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,136,1,3.52,Low
+com.facebook.lite,Facebook,I i Always love Facebook than other platform,5,0,2026-07-29 00:33:28,,,play_store,i i always love facebook than other platform,Praise,0.91141963,True,1,Positive,tfidf_fallback,137,1,1.02,Low
+com.facebook.lite,Facebook,amazing app Indeed,5,0,2026-07-29 00:32:10,,,play_store,amazing app indeed,Praise,0.92469525,True,1,Positive,tfidf_fallback,138,1,1.02,Low
+com.facebook.lite,Facebook,Taddaseee,5,0,2026-07-29 00:30:04,,,play_store,taddaseee,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,139,1,3.52,Low
+com.facebook.lite,Facebook,One Love,5,0,2026-07-29 00:17:20,,,play_store,one love,Praise,0.9375162,True,1,Positive,tfidf_fallback,142,2,1.324,Low
+com.facebook.lite,Facebook,it's so easy to use it,5,0,2026-07-29 00:13:07,,,play_store,it's so easy to use it,Praise,0.9285439,True,1,Positive,tfidf_fallback,143,1,1.02,Low
+com.facebook.lite,Facebook,I luv my little girl,4,0,2026-07-29 00:06:25,,,play_store,i luv my little girl,Complaint,0.4560489,True,0,Neutral,tfidf_fallback,144,1,4.27,Medium
+com.facebook.lite,Facebook,oop,4,0,2026-07-29 00:06:14,,,play_store,oop,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,145,1,4.27,Medium
+com.facebook.lite,Facebook,gffar,5,0,2026-07-29 00:05:39,,,play_store,gffar,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,146,1,3.52,Low
+com.facebook.lite,Facebook,thank,5,0,2026-07-29 00:02:08,,,play_store,thank,Praise,0.8453902,True,0,Neutral,tfidf_fallback,147,3,1.54,Low
+com.facebook.lite,Facebook,humble your self,5,0,2026-07-29 00:01:33,,,play_store,humble your self,Complaint,0.46515325,True,0,Neutral,tfidf_fallback,148,1,3.52,Low
+com.facebook.lite,Facebook,how do i update,5,0,2026-07-28 23:59:44,,,play_store,how do i update,Complaint,0.67547405,True,0,Neutral,tfidf_fallback,149,1,3.52,Low
+com.facebook.lite,Facebook,Easy and fast way to connect with people,5,0,2026-07-28 23:59:28,,,play_store,easy and fast way to connect with people,Praise,0.5488789,True,1,Positive,tfidf_fallback,150,1,1.02,Low
+com.facebook.lite,Facebook,fantastic,5,0,2026-07-28 23:58:50,,,play_store,fantastic,Praise,0.5779812,True,0,Neutral,tfidf_fallback,151,4,1.707,Low
+com.facebook.lite,Facebook,I'm mad right now don't ask me to give you anything Facebook delight,1,0,2026-07-28 23:49:25,,,play_store,i'm mad right now don't ask me to give you anything facebook delight,Complaint,0.8307908,True,0,Neutral,tfidf_fallback,152,1,6.52,High
+com.facebook.lite,Facebook,Uzaifakhan,1,0,2026-07-28 23:47:34,,,play_store,uzaifakhan,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,153,1,6.52,High
+com.facebook.lite,Facebook,yousuf,1,0,2026-07-28 23:43:51,,,play_store,yousuf,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,155,1,6.52,High
+com.facebook.lite,Facebook,Simple but not reliable,2,11,2026-07-28 23:43:44,,,play_store,simple but not reliable,Complaint,0.5263323,True,0,Neutral,tfidf_fallback,156,1,7.012,High
+com.facebook.lite,Facebook,🙂🖤,5,0,2026-07-28 23:35:52,,,play_store,🙂🖤,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,157,1,3.52,Low
+com.facebook.lite,Facebook,Facebooklite,5,0,2026-07-28 23:32:07,,,play_store,facebooklite,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,159,1,3.52,Low
+com.facebook.lite,Facebook,Hqiiq kawrra Baale,5,0,2026-07-28 23:25:45,,,play_store,hqiiq kawrra baale,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,160,1,3.52,Low
+com.facebook.lite,Facebook,orvias nongalo spha,5,0,2026-07-28 23:16:13,,,play_store,orvias nongalo spha,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,163,1,3.52,Low
+com.facebook.lite,Facebook,bachpan Hi sahi tha mere dost,5,0,2026-07-28 23:15:23,,,play_store,bachpan hi sahi tha mere dost,Complaint,0.4800682,True,0,Neutral,tfidf_fallback,164,1,3.52,Low
+com.facebook.lite,Facebook,ilove this app,5,0,2026-07-28 23:08:58,,,play_store,ilove this app,Complaint,0.5008574,True,0,Neutral,tfidf_fallback,168,1,3.52,Low
+com.facebook.lite,Facebook,like,5,0,2026-07-28 23:05:29,,,play_store,like,Praise,0.656874,True,0,Neutral,tfidf_fallback,49,4,1.707,Low
+com.facebook.lite,Facebook,Up Date is taking 1 week after,5,0,2026-07-28 23:05:18,,,play_store,up date is taking 1 week after,Complaint,0.41249982,True,0,Neutral,tfidf_fallback,169,1,3.52,Low
+com.facebook.lite,Facebook,0. 9=,5,0,2026-07-28 23:01:54,,,play_store,0. 9=,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,170,1,3.52,Low
+com.facebook.lite,Facebook,Onek sondor,5,0,2026-07-28 23:01:19,,,play_store,onek sondor,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,171,1,3.52,Low
+com.facebook.lite,Facebook,i don't see any problem 😍,5,0,2026-07-28 22:58:41,,,play_store,i don't see any problem 😍,Complaint,0.9003328,True,-1,Negative,tfidf_fallback,172,1,3.52,Low
+com.facebook.lite,Facebook,Not quite sure what's the big data difference. But if Content manager say that these apps and business' are shady. I must agree,5,0,2026-07-28 22:52:58,,,play_store,not quite sure what's the big data difference. but if content manager say that these apps and business' are shady. i must agree,Complaint,0.9379563,True,0,Neutral,tfidf_fallback,174,1,3.52,Low
+com.facebook.lite,Facebook,Lovely app,5,0,2026-07-28 22:50:53,,,play_store,lovely app,Praise,0.8296847,True,0,Neutral,tfidf_fallback,175,1,1.02,Low
+com.facebook.lite,Facebook,❤️❤️❤️❤️❤️❤️❤️❤️,5,0,2026-07-28 22:47:13,,,play_store,❤️❤️❤️❤️❤️❤️❤️❤️,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,177,1,3.52,Low
+com.facebook.lite,Facebook,I like it,4,0,2026-07-28 22:45:38,,,play_store,i like it,Praise,0.8379439,True,0,Neutral,tfidf_fallback,3,5,2.594,Low
+com.facebook.lite,Facebook,Marvelous,5,0,2026-07-28 22:41:05,,,play_store,marvelous,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,178,1,3.52,Low
+com.facebook.lite,Facebook,জসিম,5,0,2026-07-28 22:34:25,,,play_store,জসিম,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,179,1,3.52,Low
+com.facebook.lite,Facebook,it was good it was good but,5,0,2026-07-28 22:33:34,,,play_store,it was good it was good but,Complaint,0.8890059,True,1,Positive,tfidf_fallback,180,1,3.52,Low
+com.facebook.lite,Facebook,hello my friend,5,0,2026-07-28 22:33:00,,,play_store,hello my friend,Complaint,0.44321096,True,0,Neutral,tfidf_fallback,181,1,3.52,Low
+com.facebook.lite,Facebook,perfect,5,0,2026-07-28 22:29:55,,,play_store,perfect,Praise,0.86609215,True,0,Neutral,tfidf_fallback,182,6,1.959,Low
+com.facebook.lite,Facebook,Nike,5,0,2026-07-28 22:25:35,,,play_store,nike,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,183,1,3.52,Low
+com.facebook.lite,Facebook,she is cute,3,0,2026-07-28 22:24:46,,,play_store,she is cute,Praise,0.62991554,True,0,Neutral,tfidf_fallback,184,1,2.52,Low
+com.facebook.lite,Facebook,AbdulazisGampal,5,0,2026-07-28 22:22:00,,,play_store,abdulazisgampal,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,186,1,3.52,Low
+com.facebook.lite,Facebook,my massage give me problem and I delete old one and I download new one,5,0,2026-07-28 22:12:40,,,play_store,my massage give me problem and i delete old one and i download new one,Complaint,0.902605,True,-1,Negative,tfidf_fallback,187,1,3.52,Low
+com.facebook.lite,Facebook,"pati rin fb ko suspended mo na, may natitira ka pa talagang awa no.",1,0,2026-07-28 22:12:35,,,play_store,"pati rin fb ko suspended mo na, may natitira ka pa talagang awa no.",Complaint,0.94463646,True,0,Neutral,tfidf_fallback,188,1,6.52,High
+com.facebook.lite,Facebook,bigk fan,5,0,2026-07-28 22:07:29,,,play_store,bigk fan,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,189,1,3.52,Low
+com.facebook.lite,Facebook,pangit,5,1,2026-07-28 22:05:18,,,play_store,pangit,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,190,1,3.866,Low
+com.facebook.lite,Facebook,Facebook social,4,1,2026-07-28 22:04:07,,,play_store,facebook social,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,191,1,4.616,Medium
+com.facebook.lite,Facebook,what is this type of finding account processing,1,1,2026-07-28 22:01:35,,,play_store,what is this type of finding account processing,Complaint,0.7772106,True,0,Neutral,tfidf_fallback,192,1,6.866,High
+com.facebook.lite,Facebook,I'm very happy,5,0,2026-07-28 21:53:12,,,play_store,i'm very happy,Praise,0.8114534,True,0,Neutral,tfidf_fallback,194,1,1.02,Low
+com.facebook.lite,Facebook,I think you should alert people on when to update the app also show them new updates,3,0,2026-07-28 21:53:10,,,play_store,i think you should alert people on when to update the app also show them new updates,Complaint,0.8793781,True,0,Neutral,tfidf_fallback,195,1,5.02,Medium
+com.facebook.lite,Facebook,One of the best apps I definitely like it,5,0,2026-07-28 21:51:47,,,play_store,one of the best apps i definitely like it,Praise,0.47817233,True,1,Positive,tfidf_fallback,196,1,1.02,Low
+com.facebook.lite,Facebook,সাকিব,2,0,2026-07-28 21:47:21,,,play_store,সাকিব,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,197,1,5.77,Medium
+com.facebook.lite,Facebook,most important app,5,0,2026-07-28 21:43:38,,,play_store,most important app,Praise,0.57185227,True,0,Neutral,tfidf_fallback,198,1,1.02,Low
+com.facebook.lite,Facebook,What they show teach moral,5,0,2026-07-28 21:43:35,,,play_store,what they show teach moral,Complaint,0.34158275,True,0,Neutral,tfidf_fallback,199,1,3.52,Low
+com.facebook.lite,Facebook,a fantastic app,5,0,2026-07-28 21:40:02,,,play_store,a fantastic app,Praise,0.71228176,True,0,Neutral,tfidf_fallback,201,2,1.324,Low
+com.facebook.lite,Facebook,It's recommended,5,1,2026-07-28 21:33:44,,,play_store,it's recommended,Praise,0.66043687,True,0,Neutral,tfidf_fallback,205,1,1.366,Low
+com.facebook.lite,Facebook,pagol,1,1,2026-07-28 21:33:30,,,play_store,pagol,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,206,1,6.866,High
+com.facebook.lite,Facebook,RYAD VI,5,1,2026-07-28 21:27:11,,,play_store,ryad vi,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,207,1,3.866,Low
+com.facebook.lite,Facebook,if the data is called a city,5,1,2026-07-28 21:25:11,,,play_store,if the data is called a city,Complaint,0.66402835,True,0,Neutral,tfidf_fallback,208,1,3.866,Low
+com.facebook.lite,Facebook,♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️,5,1,2026-07-28 21:17:18,,,play_store,♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,209,1,3.866,Low
+com.facebook.lite,Facebook,something about it.,1,1,2026-07-28 21:17:04,,,play_store,something about it.,Complaint,0.4454776,True,0,Neutral,tfidf_fallback,210,1,6.866,High
+com.facebook.lite,Facebook,💜,5,1,2026-07-28 21:16:12,,,play_store,💜,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,211,1,3.866,Low
+com.facebook.lite,Facebook,great,4,0,2026-07-28 21:13:40,,,play_store,great,Praise,0.94572586,True,1,Positive,tfidf_fallback,47,9,2.977,Low
+com.facebook.lite,Facebook,sooogoood,5,0,2026-07-28 21:07:55,,,play_store,sooogoood,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,214,1,3.52,Low
+com.facebook.lite,Facebook,maliwa,5,0,2026-07-28 21:04:43,,,play_store,maliwa,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,215,1,3.52,Low
+com.facebook.lite,Facebook,💙,3,0,2026-07-28 21:03:53,,,play_store,💙,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,216,1,5.02,Medium
+com.facebook.lite,Facebook,good not enough,3,0,2026-07-28 21:02:09,,,play_store,good not enough,Praise,0.5406528,True,1,Positive,tfidf_fallback,218,1,2.52,Low
+com.facebook.lite,Facebook,cool,5,0,2026-07-28 21:01:43,,,play_store,cool,Praise,0.6726544,True,0,Neutral,tfidf_fallback,219,5,1.844,Low
+com.facebook.lite,Facebook,awesome,5,0,2026-07-28 20:56:36,,,play_store,awesome,Praise,0.9367801,True,0,Neutral,tfidf_fallback,76,10,2.298,Low
+com.facebook.lite,Facebook,love from Bangladesh ❤️❤️,5,0,2026-07-28 20:45:25,,,play_store,love from bangladesh ❤️❤️,Praise,0.92747635,True,1,Positive,tfidf_fallback,221,1,1.02,Low
+com.facebook.lite,Facebook,use face book,2,0,2026-07-28 20:43:38,,,play_store,use face book,Complaint,0.4783288,True,0,Neutral,tfidf_fallback,222,1,5.77,Medium
+com.facebook.lite,Facebook,👍🏾,4,0,2026-07-28 20:41:35,,,play_store,👍🏾,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,224,1,4.27,Medium
+com.facebook.lite,Facebook,lovely,5,0,2026-07-28 20:37:43,,,play_store,lovely,Praise,0.7293676,True,0,Neutral,tfidf_fallback,93,4,1.707,Low
+com.facebook.lite,Facebook,👍👍👍,5,0,2026-07-28 20:37:10,,,play_store,👍👍👍,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,225,1,3.52,Low
+com.facebook.lite,Facebook,send money,5,0,2026-07-28 20:25:15,,,play_store,send money,Complaint,0.76002,True,0,Neutral,tfidf_fallback,228,1,3.52,Low
+com.facebook.lite,Facebook,addictive,1,0,2026-07-28 20:24:54,,,play_store,addictive,Bug,0.62982804,True,0,Neutral,tfidf_fallback,229,1,7.52,High
+com.facebook.lite,Facebook,like,1,0,2026-07-28 20:22:25,,,play_store,like,Praise,0.656874,True,0,Neutral,tfidf_fallback,49,4,4.707,Medium
+com.facebook.lite,Facebook,Sulid,5,0,2026-07-28 20:21:37,,,play_store,sulid,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,230,1,3.52,Low
+com.facebook.lite,Facebook,wow,5,0,2026-07-28 20:16:58,,,play_store,wow,Praise,0.6070884,True,0,Neutral,tfidf_fallback,231,8,2.148,Low
+com.facebook.lite,Facebook,very ues full ❤️,5,0,2026-07-28 20:16:33,,,play_store,very ues full ❤️,Praise,0.7759535,True,0,Neutral,tfidf_fallback,232,1,1.02,Low
+com.facebook.lite,Facebook,Why are not supposed in my fon??,2,0,2026-07-28 20:16:19,,,play_store,why are not supposed in my fon??,Praise,0.4228829,True,0,Neutral,tfidf_fallback,233,1,3.27,Low
+com.facebook.lite,Facebook,not sure,5,0,2026-07-28 20:15:36,,,play_store,not sure,Complaint,0.47515485,True,0,Neutral,tfidf_fallback,234,1,3.52,Low
+com.facebook.lite,Facebook,great 👍👍👍 helps slot,5,0,2026-07-28 20:11:05,,,play_store,great 👍👍👍 helps slot,Praise,0.94572586,True,1,Positive,tfidf_fallback,235,1,1.02,Low
+com.facebook.lite,Facebook,Messengerသံုးမရဘူး,5,1,2026-07-28 20:03:53,,,play_store,messengerသံုးမရဘူး,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,236,1,3.866,Low
+com.facebook.lite,Facebook,kawawa senyo di maka pag backread,1,0,2026-07-28 20:01:26,,,play_store,kawawa senyo di maka pag backread,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,238,1,6.52,High
+com.facebook.lite,Facebook,number 1,5,0,2026-07-28 19:57:18,,,play_store,number 1,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,240,1,3.52,Low
+com.facebook.lite,Facebook,nang sususpend nang account panget!,1,0,2026-07-28 19:57:05,,,play_store,nang sususpend nang account panget!,Complaint,0.44654876,True,0,Neutral,tfidf_fallback,241,1,6.52,High
+com.facebook.lite,Facebook,ok,5,0,2026-07-28 19:55:09,,,play_store,ok,Praise,0.54720646,True,0,Neutral,tfidf_fallback,68,12,2.424,Low
+com.facebook.lite,Facebook,download Facebook lite now,1,0,2026-07-28 19:51:43,,,play_store,download facebook lite now,Praise,0.68099993,True,0,Neutral,tfidf_fallback,243,1,4.02,Medium
+com.facebook.lite,Facebook,cool app,5,0,2026-07-28 19:41:16,,,play_store,cool app,Feature Request,0.51850665,True,0,Neutral,tfidf_fallback,246,2,2.824,Low
+com.facebook.lite,Facebook,I can't install it,1,0,2026-07-28 19:37:48,,,play_store,i can't install it,Complaint,0.69809824,True,0,Neutral,tfidf_fallback,248,1,6.52,High
+com.facebook.lite,Facebook,ok,5,0,2026-07-28 19:30:19,,,play_store,ok,Praise,0.54720646,True,0,Neutral,tfidf_fallback,68,12,2.424,Low
+com.facebook.lite,Facebook,❤️❤️,5,0,2026-07-28 19:28:41,,,play_store,❤️❤️,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,249,1,3.52,Low
+com.facebook.lite,Facebook,faild,1,0,2026-07-28 19:26:00,,,play_store,faild,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,250,1,6.52,High
+com.facebook.lite,Facebook,Zero stars ✨ for this app. it was a very nice app not until it started bringing the 'you're out of data' thingy even when you have lots of data. Why do I have to use the app in free mode when I have lots of bundles?,1,0,2026-07-28 19:07:47,,,play_store,zero stars ✨ for this app. it was a very nice app not until it started bringing the 'you're out of data' thingy even when you have lots of data. why do i have to use the app in free mode when i have lots of bundles?,Complaint,0.8348899,True,0,Neutral,tfidf_fallback,251,1,6.52,High
+com.facebook.lite,Facebook,Very exellent,5,0,2026-07-28 19:04:52,,,play_store,very exellent,Praise,0.59286857,True,0,Neutral,tfidf_fallback,252,1,1.02,Low
+com.facebook.lite,Facebook,perfect,5,0,2026-07-28 18:57:05,,,play_store,perfect,Praise,0.86609215,True,0,Neutral,tfidf_fallback,182,6,1.959,Low
+com.facebook.lite,Facebook,"having fun, meeting new people,get to meet my oldest friends",4,0,2026-07-28 18:55:40,,,play_store,"having fun, meeting new people,get to meet my oldest friends",Complaint,0.6183278,True,0,Neutral,tfidf_fallback,253,1,4.27,Medium
+com.facebook.lite,Facebook,ayaw gumana e ayan 1 ka sakin,1,0,2026-07-28 18:51:09,,,play_store,ayaw gumana e ayan 1 ka sakin,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,254,1,6.52,High
+com.facebook.lite,Facebook,cool 😎,4,0,2026-07-28 18:50:53,,,play_store,cool 😎,Praise,0.6726544,True,0,Neutral,tfidf_fallback,219,5,2.594,Low
+com.facebook.lite,Facebook,Awesome,5,0,2026-07-28 18:43:07,,,play_store,awesome,Praise,0.9367801,True,0,Neutral,tfidf_fallback,76,10,2.298,Low
+com.facebook.lite,Facebook,outstanding,5,0,2026-07-28 18:38:05,,,play_store,outstanding,Praise,0.51602155,True,0,Neutral,tfidf_fallback,256,1,1.02,Low
+com.facebook.lite,Facebook,I want to see my inbox,5,0,2026-07-28 18:36:59,,,play_store,i want to see my inbox,Complaint,0.55269116,True,0,Neutral,tfidf_fallback,257,1,3.52,Low
+com.facebook.lite,Facebook,Make money app,5,0,2026-07-28 18:31:03,,,play_store,make money app,Complaint,0.6168028,True,0,Neutral,tfidf_fallback,258,1,3.52,Low
+com.facebook.lite,Facebook,"my account has suspended, I'm so feeling depressed about that because I don't have any contact information about my schools updates and homeworks",3,0,2026-07-28 18:29:20,,,play_store,"my account has suspended, i'm so feeling depressed about that because i don't have any contact information about my schools updates and homeworks",Complaint,0.9250074,True,0,Neutral,tfidf_fallback,259,1,5.02,Medium
+com.facebook.lite,Facebook,is not downloading on my phone,5,0,2026-07-28 18:24:23,,,play_store,is not downloading on my phone,Feature Request,0.5752879,True,0,Neutral,tfidf_fallback,260,1,2.52,Low
+com.facebook.lite,Facebook,nices,5,0,2026-07-28 18:23:05,,,play_store,nices,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,261,1,3.52,Low
+com.facebook.lite,Facebook,Amazing 😍,1,0,2026-07-28 18:21:13,,,play_store,amazing 😍,Praise,0.8699503,True,1,Positive,tfidf_fallback,135,10,5.298,Medium
+com.facebook.lite,Facebook,suspended account again.meta?,1,0,2026-07-28 18:17:12,,,play_store,suspended account again.meta?,Complaint,0.4648561,True,0,Neutral,tfidf_fallback,262,1,6.52,High
+com.facebook.lite,Facebook,give me joy always online,5,0,2026-07-28 18:16:01,,,play_store,give me joy always online,Complaint,0.65022415,True,0,Neutral,tfidf_fallback,263,1,3.52,Low
+com.facebook.lite,Facebook,"can you stop, updating this to often!??? I just updated this last month and not I have to update it again????",3,0,2026-07-28 17:58:55,,,play_store,"can you stop, updating this to often!??? i just updated this last month and not i have to update it again????",Complaint,0.94405985,True,0,Neutral,tfidf_fallback,266,1,5.02,Medium
+com.facebook.lite,Facebook,like,5,0,2026-07-28 17:57:46,,,play_store,like,Praise,0.656874,True,0,Neutral,tfidf_fallback,49,4,1.707,Low
+com.facebook.lite,Facebook,"Dear Facebook Team, My Facebook account has been disabled. Facebook is asking me to complete a verification selfie, but every time I try to submit it, I receive an error and the verification cannot be completed. Because of this, I cannot access my account. I have already tried many times, but the problem is still not fixed. Please review my account and resolve this issue as soon as possible. Thank you. Dear Facebook Team, My Facebook account has been disabled.",1,1,2026-07-28 17:56:41,,,play_store,"dear facebook team, my facebook account has been disabled. facebook is asking me to complete a verification selfie, but every time i try to submit it, i receive an error and the verification cannot be completed. because of this, i cannot access my account. i have already tried many times, but the problem is still not fixed. please review my account and resolve this issue as soon as possible. thank you. dear facebook team, my facebook account has been disabled.",Complaint,0.94844735,True,-2,Negative,tfidf_fallback,267,1,6.866,High
+com.facebook.lite,Facebook,better🇿🇲🇿🇼,4,0,2026-07-28 17:52:40,,,play_store,better🇿🇲🇿🇼,Complaint,0.59037757,True,0,Neutral,tfidf_fallback,268,2,4.574,Medium
+com.facebook.lite,Facebook,Cool app,5,0,2026-07-28 17:50:53,,,play_store,cool app,Feature Request,0.51850665,True,0,Neutral,tfidf_fallback,246,2,2.824,Low
+com.facebook.lite,Facebook,one love,5,0,2026-07-28 17:47:13,,,play_store,one love,Praise,0.9375162,True,1,Positive,tfidf_fallback,142,2,1.324,Low
+com.facebook.lite,Facebook,Wabantwana ❤️‍🔥,5,0,2026-07-28 17:39:51,,,play_store,wabantwana ❤️‍🔥,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,269,1,3.52,Low
+com.facebook.lite,Facebook,Perfect,5,0,2026-07-28 17:36:51,,,play_store,perfect,Praise,0.86609215,True,0,Neutral,tfidf_fallback,182,6,1.959,Low
+com.facebook.lite,Facebook,great,1,0,2026-07-28 17:35:29,,,play_store,great,Praise,0.94572586,True,1,Positive,tfidf_fallback,47,9,5.227,Medium
+com.facebook.lite,Facebook,Easy just downloaded and start using,5,0,2026-07-28 17:24:17,,,play_store,easy just downloaded and start using,Praise,0.6630848,True,1,Positive,tfidf_fallback,273,1,1.02,Low
+com.facebook.lite,Facebook,much better,4,0,2026-07-28 17:22:01,,,play_store,much better,Complaint,0.3784091,True,0,Neutral,tfidf_fallback,274,1,4.27,Medium
+com.facebook.lite,Facebook,lovely this app,3,0,2026-07-28 17:21:59,,,play_store,lovely this app,Praise,0.83346725,True,0,Neutral,tfidf_fallback,275,1,2.52,Low
+com.facebook.lite,Facebook,perfectly working no problem with the app ♥️👍👍🤲,5,0,2026-07-28 17:20:13,,,play_store,perfectly working no problem with the app ♥️👍👍🤲,Complaint,0.6289186,True,-1,Negative,tfidf_fallback,276,1,3.52,Low
+com.facebook.lite,Facebook,l wast money,5,0,2026-07-28 17:14:24,,,play_store,l wast money,Complaint,0.76002,True,0,Neutral,tfidf_fallback,277,1,3.52,Low
+com.facebook.lite,Facebook,To good for me,5,0,2026-07-28 17:12:47,,,play_store,to good for me,Praise,0.45168272,True,1,Positive,tfidf_fallback,278,1,1.02,Low
+com.facebook.lite,Facebook,helpful,5,0,2026-07-28 17:12:29,,,play_store,helpful,Praise,0.5241241,True,0,Neutral,tfidf_fallback,279,1,1.02,Low
+com.facebook.lite,Facebook,So fast and reliable,3,0,2026-07-28 16:52:12,,,play_store,so fast and reliable,Complaint,0.43036565,True,0,Neutral,tfidf_fallback,280,1,5.02,Medium
+com.facebook.lite,Facebook,beautiful 🤗💗,5,0,2026-07-28 16:41:04,,,play_store,beautiful 🤗💗,Praise,0.8441094,True,0,Neutral,tfidf_fallback,105,2,1.324,Low
+com.facebook.lite,Facebook,Cool,5,0,2026-07-28 16:38:26,,,play_store,cool,Praise,0.6726544,True,0,Neutral,tfidf_fallback,219,5,1.844,Low
+com.facebook.lite,Facebook,Please bring back my account 🙏🏻😔,5,0,2026-07-28 16:35:44,,,play_store,please bring back my account 🙏🏻😔,Complaint,0.81111485,True,0,Neutral,tfidf_fallback,282,1,3.52,Low
+com.facebook.lite,Facebook,Lag disable all of my account?,1,0,2026-07-28 16:25:03,,,play_store,lag disable all of my account?,Complaint,0.7320295,True,0,Neutral,tfidf_fallback,288,1,6.52,High
+com.facebook.lite,Facebook,স্যার আমার ফেসবুকটা ঠিক হবে না,5,0,2026-07-28 16:21:01,,,play_store,স্যার আমার ফেসবুকটা ঠিক হবে না,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,289,1,3.52,Low
+com.facebook.lite,Facebook,fantastic 🔥,4,1,2026-07-28 16:10:43,,,play_store,fantastic 🔥,Praise,0.5779812,True,0,Neutral,tfidf_fallback,151,4,2.804,Low
+com.facebook.lite,Facebook,potek nayan LAGING NAG DIDISABLE ACCOUNT WALANG PASABE,1,0,2026-07-28 15:57:31,,,play_store,potek nayan laging nag didisable account walang pasabe,Complaint,0.55378157,True,0,Neutral,tfidf_fallback,291,1,6.52,High
+com.facebook.lite,Facebook,. I don't know what I think now,5,0,2026-07-28 15:53:17,,,play_store,. i don't know what i think now,Praise,0.40726763,True,0,Neutral,tfidf_fallback,293,1,1.02,Low
+com.facebook.lite,Facebook,Friendly,5,0,2026-07-28 15:53:16,,,play_store,friendly,Complaint,0.5706713,True,0,Neutral,tfidf_fallback,294,1,3.52,Low
+com.facebook.lite,Facebook,Facebook is the real deal . more security and visibility to feel safe growing your niche,5,0,2026-07-28 15:45:38,,,play_store,facebook is the real deal . more security and visibility to feel safe growing your niche,Complaint,0.78730136,True,0,Neutral,tfidf_fallback,296,1,3.52,Low
+com.facebook.lite,Facebook,I love fb lite,5,0,2026-07-28 15:40:08,,,play_store,i love fb lite,Praise,0.9383652,True,1,Positive,tfidf_fallback,297,1,1.02,Low
+com.facebook.lite,Facebook,🙂,1,0,2026-07-28 15:38:25,,,play_store,🙂,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,298,1,6.52,High
+com.facebook.lite,Facebook,is fine,5,0,2026-07-28 15:33:40,,,play_store,is fine,Complaint,0.4595299,True,0,Neutral,tfidf_fallback,299,1,3.52,Low
+com.facebook.lite,Facebook,perfect app,5,1,2026-07-28 15:32:00,,,play_store,perfect app,Praise,0.90813607,True,0,Neutral,tfidf_fallback,300,1,1.366,Low
+com.facebook.lite,Facebook,better than Facebook,5,0,2026-07-28 15:26:25,,,play_store,better than facebook,Praise,0.49999702,True,0,Neutral,tfidf_fallback,302,1,1.02,Low
+com.facebook.lite,Facebook,thank you,5,0,2026-07-28 15:24:13,,,play_store,thank you,Praise,0.8874195,True,0,Neutral,tfidf_fallback,303,3,1.54,Low
+com.facebook.lite,Facebook,very much,4,0,2026-07-28 15:23:00,,,play_store,very much,Praise,0.62403286,True,0,Neutral,tfidf_fallback,304,2,2.074,Low
+com.facebook.lite,Facebook,Laugh,5,0,2026-07-28 15:22:41,,,play_store,laugh,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,305,1,3.52,Low
+com.facebook.lite,Facebook,Thank you Lord,4,0,2026-07-28 15:18:12,,,play_store,thank you lord,Praise,0.8874195,True,0,Neutral,tfidf_fallback,306,1,1.77,Low
+com.facebook.lite,Facebook,ok,5,0,2026-07-28 15:17:16,,,play_store,ok,Praise,0.54720646,True,0,Neutral,tfidf_fallback,68,12,2.424,Low
+com.facebook.lite,Facebook,"okay,thank you🙏",5,0,2026-07-28 15:16:49,,,play_store,"okay,thank you🙏",Praise,0.91416407,True,0,Neutral,tfidf_fallback,308,1,1.02,Low
+com.facebook.lite,Facebook,bohot solo hay,1,0,2026-07-28 14:58:49,,,play_store,bohot solo hay,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,313,1,6.52,High
+com.facebook.lite,Facebook,it's fast and reliable,4,0,2026-07-28 14:43:00,,,play_store,it's fast and reliable,Praise,0.48076418,True,0,Neutral,tfidf_fallback,314,1,1.77,Low
+com.facebook.lite,Facebook,It's perfect to use and I like it,5,0,2026-07-28 14:32:00,,,play_store,it's perfect to use and i like it,Praise,0.9253839,True,0,Neutral,tfidf_fallback,316,1,1.02,Low
+com.facebook.lite,Facebook,slow to install,1,0,2026-07-28 14:31:02,,,play_store,slow to install,Complaint,0.82614195,True,-1,Negative,tfidf_fallback,317,1,6.52,High
+com.facebook.lite,Facebook,❤️👌👌👌👌❤️❤️❤️❤️❤️❤️❤️👌👌👌👌💞❤️💞🤗🤗🤗🤗,5,1,2026-07-28 14:22:15,,,play_store,❤️👌👌👌👌❤️❤️❤️❤️❤️❤️❤️👌👌👌👌💞❤️💞🤗🤗🤗🤗,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,319,1,3.866,Low
+com.facebook.lite,Facebook,Amazing,4,0,2026-07-28 14:18:57,,,play_store,amazing,Praise,0.8699503,True,1,Positive,tfidf_fallback,135,10,3.048,Low
+com.facebook.lite,Facebook,average,4,0,2026-07-28 14:07:10,,,play_store,average,Praise,0.46584737,True,0,Neutral,tfidf_fallback,321,1,1.77,Low
+com.facebook.lite,Facebook,perfect,4,0,2026-07-28 13:51:49,,,play_store,perfect,Praise,0.86609215,True,0,Neutral,tfidf_fallback,182,6,2.709,Low
+com.facebook.lite,Facebook,😍,5,1,2026-07-28 13:51:10,,,play_store,😍,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,323,1,3.866,Low
+com.facebook.lite,Facebook,wow joss,5,0,2026-07-28 13:50:00,,,play_store,wow joss,Praise,0.6070884,True,0,Neutral,tfidf_fallback,324,1,1.02,Low
+com.facebook.lite,Facebook,bbhhhttt khubsoorat orr paidaar mazboot items hnn Roz mrra k k istemal k hrr chzzz mjood h Dil krta h ssbb lelen bhht zbrdsst items hnnn lovely,5,0,2026-07-28 13:45:19,,,play_store,bbhhhttt khubsoorat orr paidaar mazboot items hnn roz mrra k k istemal k hrr chzzz mjood h dil krta h ssbb lelen bhht zbrdsst items hnnn lovely,Praise,0.7293676,True,0,Neutral,tfidf_fallback,325,1,1.02,Low
+com.facebook.lite,Facebook,really appreciate it ☺️,5,0,2026-07-28 13:37:43,,,play_store,really appreciate it ☺️,Complaint,0.49242526,True,0,Neutral,tfidf_fallback,328,1,3.52,Low
+com.facebook.lite,Facebook,it's slow,1,0,2026-07-28 13:28:46,,,play_store,it's slow,Complaint,0.771965,True,-1,Negative,tfidf_fallback,329,1,6.52,High
+com.facebook.lite,Facebook,I had a hard time,1,0,2026-07-28 13:25:39,,,play_store,i had a hard time,Complaint,0.6086266,True,0,Neutral,tfidf_fallback,330,1,6.52,High
+com.facebook.lite,Facebook,faster and reliable,5,0,2026-07-28 13:15:49,,,play_store,faster and reliable,Feature Request,0.7406102,True,0,Neutral,tfidf_fallback,331,1,2.52,Low
+com.facebook.lite,Facebook,good for me,4,0,2026-07-28 13:12:54,,,play_store,good for me,Praise,0.47367874,True,1,Positive,tfidf_fallback,332,1,1.77,Low
+com.facebook.lite,Facebook,Thank you,5,0,2026-07-28 13:10:46,,,play_store,thank you,Praise,0.8874195,True,0,Neutral,tfidf_fallback,303,3,1.54,Low
+com.facebook.lite,Facebook,no words can reply,5,0,2026-07-28 13:09:17,,,play_store,no words can reply,Feature Request,0.65407217,True,0,Neutral,tfidf_fallback,333,1,2.52,Low
+com.facebook.lite,Facebook,awesome,5,0,2026-07-28 13:07:28,,,play_store,awesome,Praise,0.9367801,True,0,Neutral,tfidf_fallback,76,10,2.298,Low
+com.facebook.lite,Facebook,so noce,5,0,2026-07-28 13:00:53,,,play_store,so noce,Praise,0.7717849,True,0,Neutral,tfidf_fallback,335,1,1.02,Low
+com.facebook.lite,Facebook,😊😊,5,0,2026-07-28 12:52:59,,,play_store,😊😊,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,336,1,3.52,Low
+com.facebook.lite,Facebook,my account suspended /disabled without any reason i am disappointed can u bring back again my Facebook account because I need for contact my family and friends,1,0,2026-07-28 12:31:20,,,play_store,my account suspended /disabled without any reason i am disappointed can u bring back again my facebook account because i need for contact my family and friends,Complaint,0.7015355,True,0,Neutral,tfidf_fallback,337,1,6.52,High
+com.facebook.lite,Facebook,calu nathi satu,1,0,2026-07-28 12:23:09,,,play_store,calu nathi satu,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,338,1,6.52,High
+com.facebook.lite,Facebook,wow,5,0,2026-07-28 12:07:02,,,play_store,wow,Praise,0.6070884,True,0,Neutral,tfidf_fallback,231,8,2.148,Low
+com.facebook.lite,Facebook,Absolutely Amazing,5,1,2026-07-28 12:05:27,,,play_store,absolutely amazing,Praise,0.8699503,True,1,Positive,tfidf_fallback,340,1,1.366,Low
+com.facebook.lite,Facebook,namba one,5,0,2026-07-28 11:58:14,,,play_store,namba one,Complaint,0.49374285,True,0,Neutral,tfidf_fallback,341,1,3.52,Low
+com.facebook.lite,Facebook,🥰🥰,5,0,2026-07-28 11:55:22,,,play_store,🥰🥰,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,343,1,3.52,Low
+com.facebook.lite,Facebook,I'm happy for everything socçec,5,0,2026-07-28 11:47:31,,,play_store,i'm happy for everything socçec,Praise,0.65499413,True,0,Neutral,tfidf_fallback,345,1,1.02,Low
+com.facebook.lite,Facebook,well,5,0,2026-07-28 11:44:22,,,play_store,well,Praise,0.45743695,True,0,Neutral,tfidf_fallback,346,2,1.324,Low
+com.facebook.lite,Facebook,Thank you for loving me,5,0,2026-07-28 11:42:58,,,play_store,thank you for loving me,Praise,0.84373665,True,0,Neutral,tfidf_fallback,347,1,1.02,Low
+com.facebook.lite,Facebook,super poor,1,0,2026-07-28 11:42:51,,,play_store,super poor,Praise,0.8979753,True,0,Neutral,tfidf_fallback,348,1,4.02,Medium
+com.facebook.lite,Facebook,I can't see the send pics,5,0,2026-07-28 11:41:28,,,play_store,i can't see the send pics,Complaint,0.8240953,True,0,Neutral,tfidf_fallback,349,1,3.52,Low
+com.facebook.lite,Facebook,"My account keeps getting suspended, even though I haven't done anything that violates the Community Standards.",1,0,2026-07-28 11:35:08,,,play_store,"my account keeps getting suspended, even though i haven't done anything that violates the community standards.",Complaint,0.92925894,True,0,Neutral,tfidf_fallback,350,1,6.52,High
+com.facebook.lite,Facebook,my messages aren't opening and it's annoying,1,1,2026-07-28 11:26:33,,,play_store,my messages aren't opening and it's annoying,Complaint,0.62993145,True,0,Neutral,tfidf_fallback,352,1,6.866,High
+com.facebook.lite,Facebook,great 👌,5,1,2026-07-28 11:26:28,,,play_store,great 👌,Praise,0.94572586,True,1,Positive,tfidf_fallback,47,9,2.574,Low
+com.facebook.lite,Facebook,I dont know but now I can't play videos even the connection is not poor.,1,1,2026-07-28 11:19:26,,,play_store,i dont know but now i can't play videos even the connection is not poor.,Complaint,0.8877199,True,0,Neutral,tfidf_fallback,353,1,6.866,High
+com.facebook.lite,Facebook,Nc app,5,0,2026-07-28 11:00:05,,,play_store,nc app,Complaint,0.59465367,True,0,Neutral,tfidf_fallback,355,1,3.52,Low
+com.facebook.lite,Facebook,I have used it for so long without any disturbance but why don't you make it operate without VPN?,4,0,2026-07-28 10:47:18,,,play_store,i have used it for so long without any disturbance but why don't you make it operate without vpn?,Complaint,0.8839653,True,0,Neutral,tfidf_fallback,356,1,4.27,Medium
+com.facebook.lite,Facebook,👍,5,0,2026-07-28 10:46:45,,,play_store,👍,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,357,1,3.52,Low
+com.facebook.lite,Facebook,Goood,5,0,2026-07-28 10:42:01,,,play_store,goood,Praise,0.624853,True,0,Neutral,tfidf_fallback,106,2,1.324,Low
+com.facebook.lite,Facebook,"Too many pop up ads. Too many fake news. Too many fake accounts. Too many suggestions for friendships, reals and so in that are opposite of my interests! it's ridiculous",1,0,2026-07-28 10:39:53,,,play_store,"too many pop up ads. too many fake news. too many fake accounts. too many suggestions for friendships, reals and so in that are opposite of my interests! it's ridiculous",Complaint,0.93693817,True,0,Neutral,tfidf_fallback,358,1,6.52,High
+com.facebook.lite,Facebook,nicee,5,0,2026-07-28 10:38:27,,,play_store,nicee,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,359,1,3.52,Low
+com.facebook.lite,Facebook,suspending and disabling account,1,0,2026-07-28 10:35:53,,,play_store,suspending and disabling account,Complaint,0.4550762,True,0,Neutral,tfidf_fallback,361,1,6.52,High
+com.facebook.lite,Facebook,Facebook Lite is my favorite love it Because is where I get more and more updates,5,0,2026-07-28 10:30:51,,,play_store,facebook lite is my favorite love it because is where i get more and more updates,Praise,0.78989786,True,1,Positive,tfidf_fallback,363,1,1.02,Low
+com.facebook.lite,Facebook,"Facebook Lite is fast, easy to use, and works well even with a slow internet connection. It's a great app for staying connected with family and friends while using less data. 😉🥰🫡",5,0,2026-07-28 10:09:18,,,play_store,"facebook lite is fast, easy to use, and works well even with a slow internet connection. it's a great app for staying connected with family and friends while using less data. 😉🥰🫡",Complaint,0.6867948,True,1,Positive,tfidf_fallback,364,1,3.52,Low
+com.facebook.lite,Facebook,always suspending my account for no reasons.,1,1,2026-07-28 10:00:33,,,play_store,always suspending my account for no reasons.,Complaint,0.8450994,True,0,Neutral,tfidf_fallback,365,1,6.866,High
+com.facebook.lite,Facebook,all goods,5,1,2026-07-28 09:59:22,,,play_store,all goods,Complaint,0.48588455,True,0,Neutral,tfidf_fallback,366,1,3.866,Low
+com.facebook.lite,Facebook,"because all Facebook account will disabled,even nothing doing badly rules.",1,0,2026-07-28 09:52:48,,,play_store,"because all facebook account will disabled,even nothing doing badly rules.",Complaint,0.74564326,True,0,Neutral,tfidf_fallback,368,1,6.52,High
+com.facebook.lite,Facebook,dankie,5,0,2026-07-28 09:51:10,,,play_store,dankie,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,369,1,3.52,Low
+com.facebook.lite,Facebook,always suspending my account,1,0,2026-07-28 09:46:58,,,play_store,always suspending my account,Complaint,0.59053135,True,0,Neutral,tfidf_fallback,370,1,6.52,High
+com.facebook.lite,Facebook,faster massage,5,0,2026-07-28 09:40:11,,,play_store,faster massage,Feature Request,0.7803052,True,0,Neutral,tfidf_fallback,371,1,2.52,Low
+com.facebook.lite,Facebook,reels are not playing,3,0,2026-07-28 09:36:22,,,play_store,reels are not playing,Praise,0.490917,True,0,Neutral,tfidf_fallback,372,1,2.52,Low
+com.facebook.lite,Facebook,open my account,5,0,2026-07-28 09:26:33,,,play_store,open my account,Complaint,0.54426885,True,0,Neutral,tfidf_fallback,374,1,3.52,Low
+com.facebook.lite,Facebook,ramro xa,5,1,2026-07-28 09:17:04,,,play_store,ramro xa,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,376,1,3.866,Low
+com.facebook.lite,Facebook,Wow,5,0,2026-07-28 09:13:18,,,play_store,wow,Praise,0.6070884,True,0,Neutral,tfidf_fallback,231,8,2.148,Low
+com.facebook.lite,Facebook,I think that Facebook should be more valuable,2,1,2026-07-28 09:08:08,,,play_store,i think that facebook should be more valuable,Complaint,0.5457818,True,0,Neutral,tfidf_fallback,377,1,6.116,Medium
+com.facebook.lite,Facebook,awesome 👍,5,0,2026-07-28 08:52:56,,,play_store,awesome 👍,Praise,0.9367801,True,0,Neutral,tfidf_fallback,76,10,2.298,Low
+com.facebook.lite,Facebook,Facebook lite is very good apps,5,0,2026-07-28 08:50:49,,,play_store,facebook lite is very good apps,Feature Request,0.39944065,True,1,Positive,tfidf_fallback,380,1,2.52,Low
+com.facebook.lite,Facebook,yuup,5,0,2026-07-28 08:48:57,,,play_store,yuup,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,381,1,3.52,Low
+com.facebook.lite,Facebook,it works perfectly,5,0,2026-07-28 08:46:19,,,play_store,it works perfectly,Praise,0.6404871,True,0,Neutral,tfidf_fallback,383,1,1.02,Low
+com.facebook.lite,Facebook,very much,5,0,2026-07-28 08:28:39,,,play_store,very much,Praise,0.62403286,True,0,Neutral,tfidf_fallback,304,2,1.324,Low
+com.facebook.lite,Facebook,ধন্যবাদ,3,0,2026-07-28 08:23:18,,,play_store,ধন্যবাদ,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,384,1,5.02,Medium
+com.facebook.lite,Facebook,easy to use.,5,0,2026-07-28 08:07:52,,,play_store,easy to use.,Praise,0.67104095,True,1,Positive,tfidf_fallback,386,2,1.324,Low
+com.facebook.lite,Facebook,i love Facebook lite,5,0,2026-07-28 08:05:59,,,play_store,i love facebook lite,Praise,0.9383652,True,1,Positive,tfidf_fallback,387,1,1.02,Low
+com.facebook.lite,Facebook,❤️❤️,5,0,2026-07-28 07:39:11,,,play_store,❤️❤️,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,388,1,3.52,Low
+com.facebook.lite,Facebook,"wonderful, recommended",5,0,2026-07-28 07:35:53,,,play_store,"wonderful, recommended",Praise,0.58266306,True,0,Neutral,tfidf_fallback,390,1,1.02,Low
+com.facebook.lite,Facebook,it easy and quick to use,1,0,2026-07-28 07:26:46,,,play_store,it easy and quick to use,Praise,0.61202806,True,1,Positive,tfidf_fallback,391,1,4.02,Medium
+com.facebook.lite,Facebook,thank u,5,1,2026-07-28 07:23:04,,,play_store,thank u,Praise,0.8453902,True,0,Neutral,tfidf_fallback,147,3,1.886,Low
+com.facebook.lite,Facebook,Wonderful,5,1,2026-07-28 07:09:56,,,play_store,wonderful,Praise,0.58266306,True,0,Neutral,tfidf_fallback,392,4,2.054,Low
+com.facebook.lite,Facebook,my facebook always suspend .,1,0,2026-07-28 07:06:36,,,play_store,my facebook always suspend .,Complaint,0.5298409,True,0,Neutral,tfidf_fallback,393,1,6.52,High
+com.facebook.lite,Facebook,saves data and make people engage with others freely who doesn't have access to data bundle 😔,5,0,2026-07-28 07:05:23,,,play_store,saves data and make people engage with others freely who doesn't have access to data bundle 😔,Complaint,0.8880493,True,0,Neutral,tfidf_fallback,394,1,3.52,Low
+com.facebook.lite,Facebook,not logy,5,0,2026-07-28 06:42:03,,,play_store,not logy,Complaint,0.4751547,True,0,Neutral,tfidf_fallback,396,1,3.52,Low
+com.facebook.lite,Facebook,can't see picture that he send to me,5,0,2026-07-28 06:38:16,,,play_store,can't see picture that he send to me,Complaint,0.8649181,True,0,Neutral,tfidf_fallback,397,1,3.52,Low
+com.facebook.lite,Facebook,really enjoying with this app,5,0,2026-07-28 06:23:35,,,play_store,really enjoying with this app,Praise,0.5436199,True,0,Neutral,tfidf_fallback,398,1,1.02,Low
+com.facebook.lite,Facebook,"Unfortunately,lite has stopped.",5,1,2026-07-28 06:16:29,,,play_store,"unfortunately,lite has stopped.",Complaint,0.61932164,True,0,Neutral,tfidf_fallback,399,1,3.866,Low
+com.facebook.lite,Facebook,thank you,5,0,2026-07-28 06:12:42,,,play_store,thank you,Praise,0.8874195,True,0,Neutral,tfidf_fallback,303,3,1.54,Low
+com.facebook.lite,Facebook,Beautyful,5,0,2026-07-28 05:51:48,,,play_store,beautyful,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,400,1,3.52,Low
+com.facebook.lite,Facebook,interesting,5,0,2026-07-28 05:43:44,,,play_store,interesting,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,402,1,3.52,Low
+com.facebook.lite,Facebook,well,5,0,2026-07-28 05:42:57,,,play_store,well,Praise,0.45743695,True,0,Neutral,tfidf_fallback,346,2,1.324,Low
+com.facebook.lite,Facebook,whoever threatening me with my account I want them all arrested,5,0,2026-07-28 05:42:32,,,play_store,whoever threatening me with my account i want them all arrested,Complaint,0.7568368,True,0,Neutral,tfidf_fallback,403,1,3.52,Low
+com.facebook.lite,Facebook,very usefull,5,0,2026-07-28 05:38:03,,,play_store,very usefull,Praise,0.7354812,True,0,Neutral,tfidf_fallback,404,1,1.02,Low
+com.facebook.lite,Facebook,"will be nice when people find a better platform so I can uninstall. Not stable, many, many failures and annoyances core to its mantra",1,3,2026-07-28 05:37:41,,,play_store,"will be nice when people find a better platform so i can uninstall. not stable, many, many failures and annoyances core to its mantra",Praise,0.77304727,True,0,Neutral,tfidf_fallback,405,1,4.713,Medium
+com.facebook.lite,Facebook,plz supported me💖💖💖,5,0,2026-07-28 05:33:57,,,play_store,plz supported me💖💖💖,Complaint,0.7750378,True,0,Neutral,tfidf_fallback,406,1,3.52,Low
+com.facebook.lite,Facebook,Fb lite is not strictly so. It's been mini app but great. Hopefully back to functions the features audio call and video call the chat feature.,3,0,2026-07-28 05:33:25,,,play_store,fb lite is not strictly so. it's been mini app but great. hopefully back to functions the features audio call and video call the chat feature.,Complaint,0.56995606,True,1,Positive,tfidf_fallback,407,1,5.02,Medium
+com.facebook.lite,Facebook,👍🏽👍🏽👍🏽,5,0,2026-07-28 05:33:03,,,play_store,👍🏽👍🏽👍🏽,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,408,1,3.52,Low
+com.facebook.lite,Facebook,Great,5,0,2026-07-28 05:12:41,,,play_store,great,Praise,0.94572586,True,1,Positive,tfidf_fallback,47,9,2.227,Low
+com.facebook.lite,Facebook,i can't even open my message section for the last 3 weeks,1,1,2026-07-28 05:04:25,,,play_store,i can't even open my message section for the last 3 weeks,Complaint,0.8292948,True,0,Neutral,tfidf_fallback,409,1,6.866,High
+com.facebook.lite,Facebook,The app is disturbing me,5,0,2026-07-28 04:47:46,,,play_store,the app is disturbing me,Praise,0.6261226,True,0,Neutral,tfidf_fallback,411,1,1.02,Low
+com.facebook.lite,Facebook,awesome,5,0,2026-07-28 04:37:45,,,play_store,awesome,Praise,0.9367801,True,0,Neutral,tfidf_fallback,76,10,2.298,Low
+com.facebook.lite,Facebook,ESTA Cul,5,0,2026-07-28 04:18:49,,,play_store,esta cul,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,413,1,3.52,Low
+com.facebook.lite,Facebook,"umm awesomeness, keep the peace and hurry on elevating without price codes, it's evil, and boring, u should try to do better for ourselves. having said that Facebook lite, it couldn't be more proper. If it had wings we would all be stiff necked looking up to the skies, as danger would be all us, I don't know use this app because it's better than others, it has a small footprint and is hella friendly towards other apps. 5*",5,0,2026-07-28 04:17:24,,,play_store,"umm awesomeness, keep the peace and hurry on elevating without price codes, it's evil, and boring, u should try to do better for ourselves. having said that facebook lite, it couldn't be more proper. if it had wings we would all be stiff necked looking up to the skies, as danger would be all us, i don't know use this app because it's better than others, it has a small footprint and is hella friendly towards other apps. 5*",Complaint,0.9438971,True,0,Neutral,tfidf_fallback,414,1,3.52,Low
+com.facebook.lite,Facebook,lovely,5,0,2026-07-28 04:16:43,,,play_store,lovely,Praise,0.7293676,True,0,Neutral,tfidf_fallback,93,4,1.707,Low
+com.facebook.lite,Facebook,sana Ako napd,5,0,2026-07-28 04:06:09,,,play_store,sana ako napd,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,415,1,3.52,Low
+com.facebook.lite,Facebook,new update,5,0,2026-07-28 04:05:19,,,play_store,new update,Complaint,0.6268018,True,0,Neutral,tfidf_fallback,416,1,3.52,Low
+com.facebook.lite,Facebook,works perfectly fine,5,0,2026-07-28 03:43:10,,,play_store,works perfectly fine,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,417,1,3.52,Low
+com.facebook.lite,Facebook,this is wow,4,0,2026-07-28 03:40:26,,,play_store,this is wow,Praise,0.5709971,True,0,Neutral,tfidf_fallback,418,1,1.77,Low
+com.facebook.lite,Facebook,لماذا يتم حظر حساباتي,1,1,2026-07-28 03:33:21,,,play_store,لماذا يتم حظر حساباتي,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,419,1,6.866,High
+com.facebook.lite,Facebook,সেরা এক,5,1,2026-07-28 03:31:05,,,play_store,সেরা এক,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,420,1,3.866,Low
+com.facebook.lite,Facebook,such a pathetic services i lost my account and meta supprt services are not being supporting me to reopen my account.,1,1,2026-07-28 03:29:48,,,play_store,such a pathetic services i lost my account and meta supprt services are not being supporting me to reopen my account.,Complaint,0.86339736,True,0,Neutral,tfidf_fallback,421,1,6.866,High
+com.facebook.lite,Facebook,suspend/disable without any reasons,3,0,2026-07-28 03:23:11,,,play_store,suspend/disable without any reasons,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,422,1,5.02,Medium
+com.facebook.lite,Facebook,maane Ilma oro,5,0,2026-07-28 03:21:40,,,play_store,maane ilma oro,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,423,1,3.52,Low
+com.facebook.lite,Facebook,all my account was disabled. It happen only in one account then all my account now is disabled,1,0,2026-07-28 03:21:27,,,play_store,all my account was disabled. it happen only in one account then all my account now is disabled,Complaint,0.7357693,True,0,Neutral,tfidf_fallback,424,1,6.52,High
+com.facebook.lite,Facebook,I cant log in why,1,1,2026-07-28 03:17:06,,,play_store,i cant log in why,Complaint,0.6664259,True,0,Neutral,tfidf_fallback,426,1,6.866,High
+com.facebook.lite,Facebook,I'm so happy with face book 📖 ☺️ 💓,5,0,2026-07-28 03:10:24,,,play_store,i'm so happy with face book 📖 ☺️ 💓,Praise,0.48213783,True,0,Neutral,tfidf_fallback,427,1,1.02,Low
+com.facebook.lite,Facebook,good for now,2,0,2026-07-28 03:07:53,,,play_store,good for now,Praise,0.59059775,True,1,Positive,tfidf_fallback,428,1,3.27,Low
+com.facebook.lite,Facebook,FACEBOOK $$$$$$,5,1,2026-07-28 02:48:32,,,play_store,facebook $$$$$$,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,429,1,3.866,Low
+com.facebook.lite,Facebook,❤️❤️,5,0,2026-07-28 02:42:24,,,play_store,❤️❤️,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,430,1,3.52,Low
+com.facebook.lite,Facebook,amazing,5,0,2026-07-28 02:37:12,,,play_store,amazing,Praise,0.8699503,True,1,Positive,tfidf_fallback,135,10,2.298,Low
+com.facebook.lite,Facebook,it's quite better though page problems sometimes I hope you improved video downloading to the gallery,3,0,2026-07-28 02:30:03,,,play_store,it's quite better though page problems sometimes i hope you improved video downloading to the gallery,Complaint,0.8580232,True,0,Neutral,tfidf_fallback,431,1,5.02,Medium
+com.facebook.lite,Facebook,Great,5,0,2026-07-28 02:27:34,,,play_store,great,Praise,0.94572586,True,1,Positive,tfidf_fallback,47,9,2.227,Low
+com.facebook.lite,Facebook,help me update this app,1,0,2026-07-28 02:25:35,,,play_store,help me update this app,Complaint,0.5601797,True,0,Neutral,tfidf_fallback,432,1,6.52,High
+com.facebook.lite,Facebook,great 👍,5,0,2026-07-28 02:24:09,,,play_store,great 👍,Praise,0.94572586,True,1,Positive,tfidf_fallback,47,9,2.227,Low
+com.facebook.lite,Facebook,I love to be recognized,5,0,2026-07-28 02:15:02,,,play_store,i love to be recognized,Praise,0.87824905,True,1,Positive,tfidf_fallback,434,1,1.02,Low
+com.facebook.lite,Facebook,nothing thanks 😊,5,0,2026-07-28 02:12:08,,,play_store,nothing thanks 😊,Complaint,0.56552655,True,0,Neutral,tfidf_fallback,435,1,3.52,Low
+com.facebook.lite,Facebook,1/500😩,5,0,2026-07-28 02:08:52,,,play_store,1/500😩,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,436,1,3.52,Low
+com.facebook.lite,Facebook,💯,5,0,2026-07-28 01:58:31,,,play_store,💯,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,437,1,3.52,Low
+com.facebook.lite,Facebook,"the app is easy to manage, fast and responsive",5,0,2026-07-28 01:43:19,,,play_store,"the app is easy to manage, fast and responsive",Complaint,0.40379986,True,1,Positive,tfidf_fallback,440,1,3.52,Low
+com.facebook.lite,Facebook,Keeps asking for my ID and it's still not letting me on,1,1,2026-07-28 01:40:38,,,play_store,keeps asking for my id and it's still not letting me on,Complaint,0.94447106,True,0,Neutral,tfidf_fallback,441,1,6.866,High
+com.facebook.lite,Facebook,dab,1,0,2026-07-28 01:27:52,,,play_store,dab,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,442,1,6.52,High
+com.facebook.lite,Facebook,amazing,5,0,2026-07-28 01:08:57,,,play_store,amazing,Praise,0.8699503,True,1,Positive,tfidf_fallback,135,10,2.298,Low
+com.facebook.lite,Facebook,not avilable in my country all his settings 😀,1,0,2026-07-28 01:05:56,,,play_store,not avilable in my country all his settings 😀,Complaint,0.57914317,True,0,Neutral,tfidf_fallback,443,1,6.52,High
+com.facebook.lite,Facebook,poor,1,0,2026-07-28 01:04:43,,,play_store,poor,Complaint,0.8530732,True,0,Neutral,tfidf_fallback,445,1,6.52,High
+com.facebook.lite,Facebook,I've been with you for a long time and had to change my email address and password here lately and I'm just trying to get back to stabilism!,5,0,2026-07-28 01:02:03,,,play_store,i've been with you for a long time and had to change my email address and password here lately and i'm just trying to get back to stabilism!,Complaint,0.84855306,True,0,Neutral,tfidf_fallback,446,1,3.52,Low
+com.facebook.lite,Facebook,poor update,1,0,2026-07-28 00:54:30,,,play_store,poor update,Complaint,0.9043907,True,0,Neutral,tfidf_fallback,447,1,6.52,High
+com.facebook.lite,Facebook,𝙸𝚝'𝚜 𝚐𝚘𝚘𝚍,5,0,2026-07-28 00:46:14,,,play_store,𝙸𝚝'𝚜 𝚐𝚘𝚘𝚍,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,449,1,3.52,Low
+com.facebook.lite,Facebook,I am in,1,0,2026-07-28 00:46:12,,,play_store,i am in,Praise,0.7685646,True,0,Neutral,tfidf_fallback,450,1,4.02,Medium
+com.facebook.lite,Facebook,great,4,0,2026-07-28 00:40:21,,,play_store,great,Praise,0.94572586,True,1,Positive,tfidf_fallback,47,9,2.977,Low
+com.facebook.lite,Facebook,Vai jan,5,0,2026-07-28 00:39:33,,,play_store,vai jan,Bug,0.4310961,True,0,Neutral,tfidf_fallback,451,1,4.52,Medium
+com.facebook.lite,Facebook,greatest app ever,5,0,2026-07-28 00:38:45,,,play_store,greatest app ever,Praise,0.5756275,True,0,Neutral,tfidf_fallback,452,1,1.02,Low
+com.facebook.lite,Facebook,ok,1,0,2026-07-28 00:37:45,,,play_store,ok,Praise,0.54720646,True,0,Neutral,tfidf_fallback,68,12,5.424,Medium
+com.facebook.lite,Facebook,"Latest update makes posting difficult. I network lost & found pets and have to create each post on its own, not as before were I could select it to be posted on multiple groups . fix this",3,6,2026-07-28 00:36:32,,,play_store,"latest update makes posting difficult. i network lost & found pets and have to create each post on its own, not as before were i could select it to be posted on multiple groups . fix this",Complaint,0.77417487,True,0,Neutral,tfidf_fallback,453,1,5.993,Medium
+com.facebook.lite,Facebook,this application is well by the way,5,1,2026-07-28 00:30:35,,,play_store,this application is well by the way,Complaint,0.7442592,True,0,Neutral,tfidf_fallback,454,1,3.866,Low
+com.facebook.lite,Facebook,amazing,5,1,2026-07-28 00:28:49,,,play_store,amazing,Praise,0.8699503,True,1,Positive,tfidf_fallback,135,10,2.645,Low
+com.facebook.lite,Facebook,Better,5,0,2026-07-28 00:28:27,,,play_store,better,Complaint,0.59037757,True,0,Neutral,tfidf_fallback,268,2,3.824,Low
+com.facebook.lite,Facebook,I like Facebook lite easy and simple to use,5,0,2026-07-28 00:28:17,,,play_store,i like facebook lite easy and simple to use,Praise,0.7468979,True,1,Positive,tfidf_fallback,455,1,1.02,Low
+com.facebook.lite,Facebook,hii ndugu,4,0,2026-07-28 00:16:34,,,play_store,hii ndugu,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,456,1,4.27,Medium
+com.facebook.lite,Facebook,Ok,5,0,2026-07-28 00:14:14,,,play_store,ok,Praise,0.54720646,True,0,Neutral,tfidf_fallback,68,12,2.424,Low
+com.facebook.lite,Facebook,very slow 🐌 😴,1,0,2026-07-28 00:09:16,,,play_store,very slow 🐌 😴,Complaint,0.84250987,True,-1,Negative,tfidf_fallback,457,1,6.52,High
+com.facebook.lite,Facebook,Yeah Absolutely not Great For Facebook Lite its Crashing video,1,1,2026-07-28 00:02:19,,,play_store,yeah absolutely not great for facebook lite its crashing video,Feature Request,0.6314205,True,1,Positive,tfidf_fallback,459,1,5.866,Medium
+com.facebook.lite,Facebook,Google lite is not responding,1,0,2026-07-27 23:59:39,,,play_store,google lite is not responding,Praise,0.5887428,True,0,Neutral,tfidf_fallback,461,1,4.02,Medium
+com.facebook.lite,Facebook,blessed to see you ladies,5,0,2026-07-27 23:59:12,,,play_store,blessed to see you ladies,Praise,0.4780786,True,0,Neutral,tfidf_fallback,462,1,1.02,Low
+com.facebook.lite,Facebook,Hell Yeah This is The Best,5,0,2026-07-27 23:53:49,,,play_store,hell yeah this is the best,Praise,0.9498273,True,1,Positive,tfidf_fallback,463,1,1.02,Low
+com.facebook.lite,Facebook,wow,5,0,2026-07-27 23:49:58,,,play_store,wow,Praise,0.6070884,True,0,Neutral,tfidf_fallback,231,8,2.148,Low
+com.facebook.lite,Facebook,awesome thanks,4,0,2026-07-27 23:43:34,,,play_store,awesome thanks,Praise,0.94409746,True,0,Neutral,tfidf_fallback,464,1,1.77,Low
+com.facebook.lite,Facebook,people more reasons to log in every day 🎰,2,0,2026-07-27 23:42:05,,,play_store,people more reasons to log in every day 🎰,Complaint,0.61381036,True,0,Neutral,tfidf_fallback,465,1,5.77,Medium
+com.facebook.lite,Facebook,wonderful,5,0,2026-07-27 23:27:50,,,play_store,wonderful,Praise,0.58266306,True,0,Neutral,tfidf_fallback,392,4,1.707,Low
+com.facebook.lite,Facebook,my apps take time to download and i need to use them as soon as possible and it has pending for a longer than I have thought,1,0,2026-07-27 23:27:08,,,play_store,my apps take time to download and i need to use them as soon as possible and it has pending for a longer than i have thought,Complaint,0.73594147,True,0,Neutral,tfidf_fallback,467,1,6.52,High
+com.facebook.lite,Facebook,awesome 👌,5,0,2026-07-27 23:22:53,,,play_store,awesome 👌,Praise,0.9367801,True,0,Neutral,tfidf_fallback,76,10,2.298,Low
+com.facebook.lite,Facebook,🫂❤️,5,0,2026-07-27 23:17:47,,,play_store,🫂❤️,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,470,1,3.52,Low
+com.facebook.lite,Facebook,"Its a very good information and socializing app, but please let the app operate under android version 4.0 and above",5,0,2026-07-27 23:13:02,,,play_store,"its a very good information and socializing app, but please let the app operate under android version 4.0 and above",Praise,0.8974648,True,1,Positive,tfidf_fallback,471,1,1.02,Low
+com.facebook.lite,Facebook,ok naman po,5,0,2026-07-27 23:11:24,,,play_store,ok naman po,Praise,0.54720646,True,0,Neutral,tfidf_fallback,472,1,1.02,Low
+com.facebook.lite,Facebook,Rite 👍💯,4,0,2026-07-27 23:09:40,,,play_store,rite 👍💯,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,473,1,4.27,Medium
+com.facebook.lite,Facebook,great,5,0,2026-07-27 22:57:08,,,play_store,great,Praise,0.94572586,True,1,Positive,tfidf_fallback,47,9,2.227,Low
+com.facebook.lite,Facebook,it is more interesting,5,0,2026-07-27 22:56:48,,,play_store,it is more interesting,Complaint,0.56563467,True,0,Neutral,tfidf_fallback,475,1,3.52,Low
+com.facebook.lite,Facebook,i.love Facebook,5,0,2026-07-27 22:49:50,,,play_store,i.love facebook,Praise,0.9383652,True,1,Positive,tfidf_fallback,43,3,1.54,Low
+com.facebook.lite,Facebook,like it,3,0,2026-07-27 22:47:05,,,play_store,like it,Praise,0.8379439,True,0,Neutral,tfidf_fallback,3,5,3.344,Low
+com.facebook.lite,Facebook,I like it,5,0,2026-07-27 22:44:52,,,play_store,i like it,Praise,0.8379439,True,0,Neutral,tfidf_fallback,3,5,1.844,Low
+com.facebook.lite,Facebook,fantastic app,5,0,2026-07-27 22:32:15,,,play_store,fantastic app,Praise,0.71228176,True,0,Neutral,tfidf_fallback,201,2,1.324,Low
+com.facebook.lite,Facebook,wow,1,0,2026-07-27 22:27:07,,,play_store,wow,Praise,0.6070884,True,0,Neutral,tfidf_fallback,231,8,5.148,Medium
+com.facebook.lite,Facebook,so sweet,5,0,2026-07-27 22:25:24,,,play_store,so sweet,Praise,0.7717849,True,0,Neutral,tfidf_fallback,477,1,1.02,Low
+com.facebook.lite,Facebook,👌👌👌,5,0,2026-07-27 22:24:44,,,play_store,👌👌👌,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,478,1,3.52,Low
+com.facebook.lite,Facebook,I just can't fully explain my experience with Facebook! It's been awesome! 💖,5,0,2026-07-27 22:16:11,,,play_store,i just can't fully explain my experience with facebook! it's been awesome! 💖,Praise,0.75248545,True,0,Neutral,tfidf_fallback,479,1,1.02,Low
+com.facebook.lite,Facebook,Everything is excellent but after updating WhatsApp I cannot use,5,0,2026-07-27 22:14:19,,,play_store,everything is excellent but after updating whatsapp i cannot use,Praise,0.8303812,True,1,Positive,tfidf_fallback,480,1,1.02,Low
+com.facebook.lite,Facebook,wonderfully,5,0,2026-07-27 22:10:53,,,play_store,wonderfully,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,481,1,3.52,Low
+com.facebook.lite,Facebook,Shareef 🥰🥰,1,0,2026-07-27 22:08:07,,,play_store,shareef 🥰🥰,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,482,1,6.52,High
+com.facebook.lite,Facebook,"i can't message or chat with my friends. anytime I send a message, it says ""couldn't send"" and my friends trying to reach me Will think im ignoring them. ple fix this",2,0,2026-07-27 21:53:40,,,play_store,"i can't message or chat with my friends. anytime i send a message, it says ""couldn't send"" and my friends trying to reach me will think im ignoring them. ple fix this",Complaint,0.9042439,True,0,Neutral,tfidf_fallback,484,1,5.77,Medium
+com.facebook.lite,Facebook,Very amazing and good apps,5,0,2026-07-27 21:53:29,,,play_store,very amazing and good apps,Praise,0.4937181,True,2,Positive,tfidf_fallback,485,1,1.02,Low
+com.facebook.lite,Facebook,facebook has become the most rubbish app in recent times suspended/disable account for no reason,1,0,2026-07-27 21:51:07,,,play_store,facebook has become the most rubbish app in recent times suspended/disable account for no reason,Complaint,0.9472522,True,0,Neutral,tfidf_fallback,486,1,6.52,High
+com.facebook.lite,Facebook,unable my message for other,5,0,2026-07-27 21:49:59,,,play_store,unable my message for other,Complaint,0.36582565,True,0,Neutral,tfidf_fallback,487,1,3.52,Low
+com.facebook.lite,Facebook,great ever,1,0,2026-07-27 21:37:45,,,play_store,great ever,Praise,0.94572586,True,1,Positive,tfidf_fallback,488,1,4.02,Medium
+com.facebook.lite,Facebook,why I cant view the image,1,0,2026-07-27 21:34:31,,,play_store,why i cant view the image,Complaint,0.8157632,True,0,Neutral,tfidf_fallback,489,1,6.52,High
+com.facebook.lite,Facebook,Goodn,5,0,2026-07-27 21:30:40,,,play_store,goodn,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,490,1,3.52,Low
+com.facebook.lite,Facebook,Bad,1,0,2026-07-27 21:28:54,,,play_store,bad,Complaint,0.94589376,True,-1,Negative,tfidf_fallback,491,1,6.52,High
+com.facebook.lite,Facebook,wonderful,5,0,2026-07-27 21:26:40,,,play_store,wonderful,Praise,0.58266306,True,0,Neutral,tfidf_fallback,392,4,1.707,Low
+com.facebook.lite,Facebook,5star Sana kaso kamakanta LNG bigla kaya 4star lng,4,0,2026-07-27 21:23:59,,,play_store,5star sana kaso kamakanta lng bigla kaya 4star lng,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,493,1,4.27,Medium
+com.facebook.lite,Facebook,wow app to do things,5,0,2026-07-27 21:21:30,,,play_store,wow app to do things,Praise,0.65679824,True,0,Neutral,tfidf_fallback,494,1,1.02,Low
+com.facebook.lite,Facebook,THIS is were we get our viruses from,1,0,2026-07-27 21:17:32,,,play_store,this is were we get our viruses from,Complaint,0.5837757,True,0,Neutral,tfidf_fallback,495,1,6.52,High
+com.facebook.lite,Facebook,thaks,5,0,2026-07-27 21:14:25,,,play_store,thaks,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,496,1,3.52,Low
+com.facebook.lite,Facebook,My Favorite,5,0,2026-07-27 21:13:22,,,play_store,my favorite,Praise,0.5571596,True,0,Neutral,tfidf_fallback,497,1,1.02,Low
+com.facebook.lite,Facebook,yes I love Facebook,5,0,2026-07-27 21:13:18,,,play_store,yes i love facebook,Praise,0.9383652,True,1,Positive,tfidf_fallback,498,1,1.02,Low
+com.facebook.lite,Facebook,I think it's much easy more than Facebook 🩷,3,0,2026-07-27 21:11:44,,,play_store,i think it's much easy more than facebook 🩷,Praise,0.54477787,True,1,Positive,tfidf_fallback,499,1,2.52,Low
+com.facebook.lite,Facebook,my video icon tab is not appearing on my Facebook,4,0,2026-07-27 21:07:22,,,play_store,my video icon tab is not appearing on my facebook,Complaint,0.5748449,True,0,Neutral,tfidf_fallback,501,1,4.27,Medium
+com.facebook.lite,Facebook,stop fake news,3,0,2026-07-27 21:02:48,,,play_store,stop fake news,Complaint,0.769668,True,0,Neutral,tfidf_fallback,502,1,5.02,Medium
+com.facebook.lite,Facebook,"If I close the app for a while while watching a video, then when I open the app again later, I can't find that video.",1,1,2026-07-27 20:52:32,,,play_store,"if i close the app for a while while watching a video, then when i open the app again later, i can't find that video.",Complaint,0.6959343,True,0,Neutral,tfidf_fallback,503,1,6.866,High
+com.facebook.lite,Facebook,ok,5,0,2026-07-27 20:49:07,,,play_store,ok,Praise,0.54720646,True,0,Neutral,tfidf_fallback,68,12,2.424,Low
+com.facebook.lite,Facebook,মাশাআল্লাহ খুব সুন্দর ভালো,5,0,2026-07-27 20:47:09,,,play_store,মাশাআল্লাহ খুব সুন্দর ভালো,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,504,1,3.52,Low
+com.facebook.lite,Facebook,hindi ba maka post ng picture kapag mag rate kay nakaka demand update nyo sobrang pang gagaue,1,0,2026-07-27 20:44:35,,,play_store,hindi ba maka post ng picture kapag mag rate kay nakaka demand update nyo sobrang pang gagaue,Complaint,0.6058912,True,0,Neutral,tfidf_fallback,505,1,6.52,High
+com.facebook.lite,Facebook,always suspend my account,1,0,2026-07-27 20:32:41,,,play_store,always suspend my account,Complaint,0.64552,True,0,Neutral,tfidf_fallback,507,1,6.52,High
+com.facebook.lite,Facebook,it's not working,1,0,2026-07-27 20:32:22,,,play_store,it's not working,Praise,0.79523623,True,0,Neutral,tfidf_fallback,508,1,4.02,Medium
+com.facebook.lite,Facebook,amazing,5,0,2026-07-27 20:31:08,,,play_store,amazing,Praise,0.8699503,True,1,Positive,tfidf_fallback,135,10,2.298,Low
+com.facebook.lite,Facebook,"not free anymore, you need data just like Facebook",1,0,2026-07-27 20:29:52,,,play_store,"not free anymore, you need data just like facebook",Complaint,0.42490774,True,0,Neutral,tfidf_fallback,509,1,6.52,High
+com.facebook.lite,Facebook,lovely,5,0,2026-07-27 20:29:10,,,play_store,lovely,Praise,0.7293676,True,0,Neutral,tfidf_fallback,93,4,1.707,Low
+com.facebook.lite,Facebook,wow,5,0,2026-07-27 20:28:52,,,play_store,wow,Praise,0.6070884,True,0,Neutral,tfidf_fallback,231,8,2.148,Low
+com.facebook.lite,Facebook,wow,5,0,2026-07-27 20:28:32,,,play_store,wow,Praise,0.6070884,True,0,Neutral,tfidf_fallback,231,8,2.148,Low
+com.facebook.lite,Facebook,Facebook lite ❎ glitch book lite ✅ 🤡,1,0,2026-07-27 20:28:21,,,play_store,facebook lite ❎ glitch book lite ✅ 🤡,Complaint,0.3962115,True,0,Neutral,tfidf_fallback,510,1,6.52,High
+com.facebook.lite,Facebook,its doesn't show my page and it crashing,2,1,2026-07-27 20:25:21,,,play_store,its doesn't show my page and it crashing,Feature Request,0.5715542,True,0,Neutral,tfidf_fallback,511,1,5.116,Medium
+com.facebook.lite,Facebook,connecting,5,1,2026-07-27 20:17:07,,,play_store,connecting,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,514,1,3.866,Low
+com.facebook.lite,Facebook,it's okay,1,0,2026-07-27 20:14:23,,,play_store,it's okay,Praise,0.5305411,True,0,Neutral,tfidf_fallback,515,1,4.02,Medium
+com.facebook.lite,Facebook,it's good but it doesn't give you a basic mode,3,0,2026-07-27 20:13:28,,,play_store,it's good but it doesn't give you a basic mode,Feature Request,0.6474874,True,1,Positive,tfidf_fallback,516,1,4.02,Medium
+com.facebook.lite,Facebook,not good 👍,2,0,2026-07-27 20:12:27,,,play_store,not good 👍,Praise,0.8022094,True,1,Positive,tfidf_fallback,517,1,3.27,Low
+com.facebook.lite,Facebook,Facebook lite is a good world connectivity and information channel and it is better for entertainment and advertisement,5,0,2026-07-27 20:08:27,,,play_store,facebook lite is a good world connectivity and information channel and it is better for entertainment and advertisement,Praise,0.7492268,True,1,Positive,tfidf_fallback,518,1,1.02,Low
+com.facebook.lite,Facebook,ok,4,0,2026-07-27 20:03:08,,,play_store,ok,Praise,0.54720646,True,0,Neutral,tfidf_fallback,68,12,3.174,Low
+com.facebook.lite,Facebook,bom,5,0,2026-07-27 20:00:54,,,play_store,bom,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,519,1,3.52,Low
+com.facebook.lite,Facebook,I appreciate,5,0,2026-07-27 19:59:24,,,play_store,i appreciate,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,520,1,3.52,Low
+com.facebook.lite,Facebook,ভালো কিন্তু কথা বলার মানুষ নাই,5,0,2026-07-27 19:43:25,,,play_store,ভালো কিন্তু কথা বলার মানুষ নাই,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,524,1,3.52,Low
+com.facebook.lite,Facebook,🤝,5,0,2026-07-27 19:42:08,,,play_store,🤝,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,525,1,3.52,Low
+com.facebook.lite,Facebook,thank,5,1,2026-07-27 19:38:53,,,play_store,thank,Praise,0.8453902,True,0,Neutral,tfidf_fallback,147,3,1.886,Low
+com.facebook.lite,Facebook,🥰🥰,5,0,2026-07-27 19:33:26,,,play_store,🥰🥰,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,526,1,3.52,Low
+com.facebook.lite,Facebook,awesome 👌 👏 👍 😍 💖 🆒️,4,0,2026-07-27 19:29:15,,,play_store,awesome 👌 👏 👍 😍 💖 🆒️,Praise,0.9367801,True,0,Neutral,tfidf_fallback,76,10,3.048,Low
+com.facebook.lite,Facebook,thanks for this app,5,0,2026-07-27 19:24:46,,,play_store,thanks for this app,Praise,0.5252163,True,0,Neutral,tfidf_fallback,527,1,1.02,Low
+com.facebook.lite,Facebook,Dali Ra gamiton bisag hinay ang internet.,2,0,2026-07-27 19:21:22,,,play_store,dali ra gamiton bisag hinay ang internet.,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,528,1,5.77,Medium
+com.facebook.lite,Facebook,perfect,5,0,2026-07-27 19:20:03,,,play_store,perfect,Praise,0.86609215,True,0,Neutral,tfidf_fallback,182,6,1.959,Low
+com.facebook.lite,Facebook,Fast th,5,0,2026-07-27 19:19:30,,,play_store,fast th,Praise,0.49393547,True,0,Neutral,tfidf_fallback,529,1,1.02,Low
+com.facebook.lite,Facebook,okay,5,0,2026-07-27 19:14:36,,,play_store,okay,Praise,0.78516394,True,0,Neutral,tfidf_fallback,530,4,1.707,Low
+com.facebook.lite,Facebook,it's been saying unstable connection but my wifi is on i can't even log out,1,0,2026-07-27 19:11:18,,,play_store,it's been saying unstable connection but my wifi is on i can't even log out,Complaint,0.9389605,True,0,Neutral,tfidf_fallback,532,1,6.52,High
+com.facebook.lite,Facebook,my favourite Facebook Good job all time,5,0,2026-07-27 19:09:56,,,play_store,my favourite facebook good job all time,Praise,0.942601,True,1,Positive,tfidf_fallback,533,1,1.02,Low
+com.facebook.lite,Facebook,"I hope, this Facebook be my forever account.. 2 account is Terminated ..I don't know why..what's happening? I hope here in Facebook lite be better thank you Facebook",4,0,2026-07-27 19:02:30,,,play_store,"i hope, this facebook be my forever account.. 2 account is terminated ..i don't know why..what's happening? i hope here in facebook lite be better thank you facebook",Complaint,0.8064634,True,0,Neutral,tfidf_fallback,535,1,4.27,Medium
+com.facebook.lite,Facebook,because it's not a five star to me so i give it a 3 star because who cares???,3,0,2026-07-27 19:01:08,,,play_store,because it's not a five star to me so i give it a 3 star because who cares???,Complaint,0.7827569,True,0,Neutral,tfidf_fallback,536,1,5.02,Medium
+com.facebook.lite,Facebook,💗💗💗💗,5,0,2026-07-27 18:57:18,,,play_store,💗💗💗💗,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,537,1,3.52,Low
+com.facebook.lite,Facebook,Open Facebook lite apps my phone,5,2,2026-07-27 18:53:28,,,play_store,open facebook lite apps my phone,Complaint,0.5914487,True,0,Neutral,tfidf_fallback,539,1,4.069,Medium
+com.facebook.lite,Facebook,this is not real one,1,0,2026-07-27 18:51:25,,,play_store,this is not real one,Complaint,0.60553414,True,0,Neutral,tfidf_fallback,540,1,6.52,High
+com.facebook.lite,Facebook,I love it because it makes me happy,5,1,2026-07-27 18:50:09,,,play_store,i love it because it makes me happy,Praise,0.9469744,True,1,Positive,tfidf_fallback,541,1,1.366,Low
+com.facebook.lite,Facebook,Thank u so much. Great app ever i use in my entire life,5,0,2026-07-27 18:49:02,,,play_store,thank u so much. great app ever i use in my entire life,Praise,0.8013389,True,1,Positive,tfidf_fallback,542,1,1.02,Low
+com.facebook.lite,Facebook,Usefully app,5,0,2026-07-27 18:48:44,,,play_store,usefully app,Complaint,0.59465367,True,0,Neutral,tfidf_fallback,543,1,3.52,Low
+com.facebook.lite,Facebook,cool,4,0,2026-07-27 18:48:25,,,play_store,cool,Praise,0.6726544,True,0,Neutral,tfidf_fallback,219,5,2.594,Low
+com.facebook.lite,Facebook,❤️❤️❤️❤️❤️❤️❤️🌹🌹🌹🌹🌹🌹👌👌👌👌👌👌,5,0,2026-07-27 18:48:10,,,play_store,❤️❤️❤️❤️❤️❤️❤️🌹🌹🌹🌹🌹🌹👌👌👌👌👌👌,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,544,1,3.52,Low
+com.facebook.lite,Facebook,but ba gni to kapag nag lalaog in Ako ng iBang phone iss naka diko Makita Yung message at naka Lagay lng dun ayh Facebook lite doesn't support it. but ganon?,4,0,2026-07-27 18:46:24,,,play_store,but ba gni to kapag nag lalaog in ako ng ibang phone iss naka diko makita yung message at naka lagay lng dun ayh facebook lite doesn't support it. but ganon?,Complaint,0.8981956,True,0,Neutral,tfidf_fallback,545,1,4.27,Medium
+com.facebook.lite,Facebook,"It plays random music EVERYTIME ! please fix it, and sometimes it shows I want to borrow data or load. that sometimes I accidentally touch",1,0,2026-07-27 18:36:34,,,play_store,"it plays random music everytime ! please fix it, and sometimes it shows i want to borrow data or load. that sometimes i accidentally touch",Complaint,0.8086303,True,0,Neutral,tfidf_fallback,548,1,6.52,High
+com.facebook.lite,Facebook,It don't update.,1,0,2026-07-27 18:35:29,,,play_store,it don't update.,Complaint,0.58229697,True,0,Neutral,tfidf_fallback,549,1,6.52,High
+com.facebook.lite,Facebook,😲,4,0,2026-07-27 18:28:50,,,play_store,😲,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,550,1,4.27,Medium
+com.facebook.lite,Facebook,I can't reach on message,1,1,2026-07-27 18:25:09,,,play_store,i can't reach on message,Complaint,0.7142704,True,0,Neutral,tfidf_fallback,551,1,6.866,High
+com.facebook.lite,Facebook,"Use the edit icon to pin, add or delete clips.",5,0,2026-07-27 18:20:54,,,play_store,"use the edit icon to pin, add or delete clips.",Feature Request,0.7140993,True,0,Neutral,tfidf_fallback,553,1,2.52,Low
+com.facebook.lite,Facebook,this app is a very good app where i can see my families and friends,5,0,2026-07-27 18:06:09,,,play_store,this app is a very good app where i can see my families and friends,Praise,0.9359404,True,1,Positive,tfidf_fallback,555,1,1.02,Low
+com.facebook.lite,Facebook,fantastic 🥰,5,0,2026-07-27 17:58:47,,,play_store,fantastic 🥰,Praise,0.5779812,True,0,Neutral,tfidf_fallback,151,4,1.707,Low
+com.facebook.lite,Facebook,👌👌👌,5,0,2026-07-27 17:58:03,,,play_store,👌👌👌,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,556,1,3.52,Low
+com.facebook.lite,Facebook,😤😤😤👌,5,0,2026-07-27 17:53:00,,,play_store,😤😤😤👌,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,557,1,3.52,Low
+com.facebook.lite,Facebook,okay,5,0,2026-07-27 17:45:34,,,play_store,okay,Praise,0.78516394,True,0,Neutral,tfidf_fallback,530,4,1.707,Low
+com.facebook.lite,Facebook,uk thanks,4,1,2026-07-27 17:39:54,,,play_store,uk thanks,Praise,0.4571648,True,0,Neutral,tfidf_fallback,558,1,2.116,Low
+com.facebook.lite,Facebook,splendid,5,0,2026-07-27 17:37:56,,,play_store,splendid,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,559,1,3.52,Low
+com.facebook.lite,Facebook,amazing,4,0,2026-07-27 17:36:54,,,play_store,amazing,Praise,0.8699503,True,1,Positive,tfidf_fallback,135,10,3.048,Low
+com.facebook.lite,Facebook,ok lng,5,0,2026-07-27 17:29:35,,,play_store,ok lng,Praise,0.54720646,True,0,Neutral,tfidf_fallback,560,1,1.02,Low
+com.facebook.lite,Facebook,impressive,5,0,2026-07-27 17:24:42,,,play_store,impressive,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,562,1,3.52,Low
+com.facebook.lite,Facebook,thankful,4,0,2026-07-27 17:22:04,,,play_store,thankful,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,564,1,4.27,Medium
+com.facebook.lite,Facebook,community,1,1,2026-07-27 17:09:40,,,play_store,community,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,566,1,6.866,High
+com.facebook.lite,Facebook,okay,1,1,2026-07-27 16:58:32,,,play_store,okay,Praise,0.78516394,True,0,Neutral,tfidf_fallback,530,4,5.054,Medium
+com.facebook.lite,Facebook,it's Really Smooth for All Giant!,5,0,2026-07-27 16:53:16,,,play_store,it's really smooth for all giant!,Complaint,0.4728307,True,0,Neutral,tfidf_fallback,569,1,3.52,Low
+com.facebook.lite,Facebook,brilliant 🕺🏾,5,1,2026-07-27 16:52:10,,,play_store,brilliant 🕺🏾,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,570,1,3.866,Low
+com.facebook.lite,Facebook,I think we should be able to find out what happened,4,0,2026-07-27 16:51:52,,,play_store,i think we should be able to find out what happened,Complaint,0.6295383,True,0,Neutral,tfidf_fallback,571,1,4.27,Medium
+com.facebook.lite,Facebook,gud,5,0,2026-07-27 16:50:07,,,play_store,gud,Bug,0.8670991,True,0,Neutral,tfidf_fallback,573,1,4.52,Medium
+com.facebook.lite,Facebook,lag pwe I'm currently using v60 lite but when I go out the WiFi is off when I come back it's say unstable networks but I try the blue fb it's not need an update,1,0,2026-07-27 16:49:36,,,play_store,lag pwe i'm currently using v60 lite but when i go out the wifi is off when i come back it's say unstable networks but i try the blue fb it's not need an update,Complaint,0.9083729,True,0,Neutral,tfidf_fallback,574,1,6.52,High
+com.facebook.lite,Facebook,please seaport those capls I love,5,0,2026-07-27 16:47:56,,,play_store,please seaport those capls i love,Praise,0.8264602,True,1,Positive,tfidf_fallback,575,1,1.02,Low
+com.facebook.lite,Facebook,not bad,3,0,2026-07-27 16:45:31,,,play_store,not bad,Complaint,0.9475717,True,-1,Negative,tfidf_fallback,576,1,5.02,Medium
+com.facebook.lite,Facebook,plss open my Facebook because I have an important contact,5,0,2026-07-27 16:27:01,,,play_store,plss open my facebook because i have an important contact,Complaint,0.59104455,True,0,Neutral,tfidf_fallback,579,1,3.52,Low
+com.facebook.lite,Facebook,"love the app, the fact that my husband and myself can both use the app account makes it even better",5,0,2026-07-27 16:20:18,,,play_store,"love the app, the fact that my husband and myself can both use the app account makes it even better",Complaint,0.59359914,True,1,Positive,tfidf_fallback,580,1,3.52,Low
+com.facebook.lite,Facebook,يغب,5,0,2026-07-27 16:19:05,,,play_store,يغب,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,581,1,3.52,Low
+com.facebook.lite,Facebook,its my favorite,1,0,2026-07-27 16:12:00,,,play_store,its my favorite,Praise,0.5247853,True,0,Neutral,tfidf_fallback,584,1,4.02,Medium
+com.facebook.lite,Facebook,ok,1,0,2026-07-27 16:09:31,,,play_store,ok,Praise,0.54720646,True,0,Neutral,tfidf_fallback,68,12,5.424,Medium
+com.facebook.lite,Facebook,I like it,3,0,2026-07-27 15:55:06,,,play_store,i like it,Praise,0.8379439,True,0,Neutral,tfidf_fallback,3,5,3.344,Low
+com.facebook.lite,Facebook,why are you not strong why all the time if I open a Facebook they will block it why are you not strong,5,0,2026-07-27 15:51:58,,,play_store,why are you not strong why all the time if i open a facebook they will block it why are you not strong,Complaint,0.79215676,True,0,Neutral,tfidf_fallback,585,1,3.52,Low
+com.facebook.lite,Facebook,this is so change my life,5,0,2026-07-27 15:46:10,,,play_store,this is so change my life,Complaint,0.5978046,True,0,Neutral,tfidf_fallback,586,1,3.52,Low
+com.facebook.lite,Facebook,happy,5,0,2026-07-27 15:30:45,,,play_store,happy,Praise,0.68591714,True,0,Neutral,tfidf_fallback,92,2,1.324,Low
+com.facebook.lite,Facebook,we use it in better way but improve on generating video call anyway all calls,5,1,2026-07-27 15:28:58,,,play_store,we use it in better way but improve on generating video call anyway all calls,Complaint,0.6142941,True,0,Neutral,tfidf_fallback,589,1,3.866,Low
+com.facebook.lite,Facebook,This is so reliable and easy,5,0,2026-07-27 15:27:04,,,play_store,this is so reliable and easy,Praise,0.68846595,True,1,Positive,tfidf_fallback,590,1,1.02,Low
+com.facebook.lite,Facebook,top 🔝 one social media platform,5,0,2026-07-27 15:26:44,,,play_store,top 🔝 one social media platform,Praise,0.49458548,True,0,Neutral,tfidf_fallback,591,1,1.02,Low
+com.facebook.lite,Facebook,"it gives me tough time and headache to open my Facebook in another phone, though it good and secured. thanks.",3,0,2026-07-27 15:22:46,,,play_store,"it gives me tough time and headache to open my facebook in another phone, though it good and secured. thanks.",Complaint,0.54828143,True,1,Positive,tfidf_fallback,592,1,5.02,Medium
+com.facebook.lite,Facebook,I really love this pop,5,0,2026-07-27 15:15:17,,,play_store,i really love this pop,Praise,0.9421168,True,1,Positive,tfidf_fallback,593,1,1.02,Low
+com.facebook.lite,Facebook,excelente,5,0,2026-07-27 15:10:54,,,play_store,excelente,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,595,1,3.52,Low
+com.facebook.lite,Facebook,makes my life easier,5,1,2026-07-27 15:08:05,,,play_store,makes my life easier,Feature Request,0.6354479,True,0,Neutral,tfidf_fallback,596,1,2.866,Low
+com.facebook.lite,Facebook,it is help people to talk with other people,5,0,2026-07-27 14:50:07,,,play_store,it is help people to talk with other people,Complaint,0.7138697,True,0,Neutral,tfidf_fallback,598,1,3.52,Low
+com.facebook.lite,Facebook,Wonderful,4,0,2026-07-27 14:46:00,,,play_store,wonderful,Praise,0.58266306,True,0,Neutral,tfidf_fallback,392,4,2.457,Low
+com.facebook.lite,Facebook,awesome,4,0,2026-07-27 14:40:15,,,play_store,awesome,Praise,0.9367801,True,0,Neutral,tfidf_fallback,76,10,3.048,Low
+com.facebook.lite,Facebook,okay🆗,5,0,2026-07-27 14:37:46,,,play_store,okay🆗,Praise,0.78516394,True,0,Neutral,tfidf_fallback,530,4,1.707,Low
+com.facebook.lite,Facebook,app open nhi ho rhi,1,0,2026-07-27 14:28:17,,,play_store,app open nhi ho rhi,Praise,0.66665614,True,0,Neutral,tfidf_fallback,600,1,4.02,Medium
+com.facebook.lite,Facebook,I love this,5,0,2026-07-27 14:23:14,,,play_store,i love this,Praise,0.9390141,True,1,Positive,tfidf_fallback,601,1,1.02,Low
+com.facebook.lite,Facebook,"Facebook always has issues nowadays and it interrupts people's social media accounts. Your platforms are always disabled. Disabling our accounts. hopefully you'll take responsibility and actions how to fix that. Don't disable accounts just because it's connected to the same number, people always use different accounts on different people- either personal, educational, or businesses.",1,0,2026-07-27 14:19:32,,,play_store,"facebook always has issues nowadays and it interrupts people's social media accounts. your platforms are always disabled. disabling our accounts. hopefully you'll take responsibility and actions how to fix that. don't disable accounts just because it's connected to the same number, people always use different accounts on different people- either personal, educational, or businesses.",Complaint,0.94804466,True,0,Neutral,tfidf_fallback,603,1,6.52,High
+com.facebook.lite,Facebook,nothing to tell 😴😪,3,0,2026-07-27 14:11:57,,,play_store,nothing to tell 😴😪,Complaint,0.5866484,True,0,Neutral,tfidf_fallback,605,1,5.02,Medium
+com.facebook.lite,Facebook,Very powerful words,5,0,2026-07-27 14:11:34,,,play_store,very powerful words,Complaint,0.4916707,True,0,Neutral,tfidf_fallback,607,1,3.52,Low
+com.facebook.lite,Facebook,What's New?,5,0,2026-07-27 14:00:04,,,play_store,what's new?,Complaint,0.49547213,True,0,Neutral,tfidf_fallback,609,1,3.52,Low
+com.facebook.lite,Facebook,Thank you meta HAHA,5,1,2026-07-27 13:47:38,,,play_store,thank you meta haha,Praise,0.8874195,True,0,Neutral,tfidf_fallback,611,1,1.366,Low
+com.facebook.lite,Facebook,cool,5,0,2026-07-27 13:46:12,,,play_store,cool,Praise,0.6726544,True,0,Neutral,tfidf_fallback,219,5,1.844,Low
+com.facebook.lite,Facebook,improve report system. Mera account baar baar block kr diya.,1,0,2026-07-27 13:46:02,,,play_store,improve report system. mera account baar baar block kr diya.,Complaint,0.81731457,True,0,Neutral,tfidf_fallback,612,1,6.52,High
+com.facebook.lite,Facebook,I feel happy,5,0,2026-07-27 13:41:41,,,play_store,i feel happy,Praise,0.68591714,True,0,Neutral,tfidf_fallback,613,1,1.02,Low
+com.facebook.lite,Facebook,slow,1,0,2026-07-27 13:41:19,,,play_store,slow,Complaint,0.8532818,True,-1,Negative,tfidf_fallback,60,2,6.824,High
+com.facebook.lite,Facebook,ok to use,5,0,2026-07-27 13:40:44,,,play_store,ok to use,Praise,0.75937384,True,0,Neutral,tfidf_fallback,614,1,1.02,Low
+com.facebook.lite,Facebook,easy to use,5,0,2026-07-27 13:39:33,,,play_store,easy to use,Praise,0.67104095,True,1,Positive,tfidf_fallback,386,2,1.324,Low
+com.facebook.lite,Facebook,easy and fast,5,1,2026-07-27 13:16:52,,,play_store,easy and fast,Feature Request,0.695184,True,1,Positive,tfidf_fallback,615,1,2.866,Low
+com.facebook.lite,Facebook,"Please can I know why the play button, ten seconds forward and backwards buttons never leaves the screen while watching a video? it's completely ruining my viewership experience 😠😠",3,0,2026-07-27 12:44:33,,,play_store,"please can i know why the play button, ten seconds forward and backwards buttons never leaves the screen while watching a video? it's completely ruining my viewership experience 😠😠",Complaint,0.6543956,True,0,Neutral,tfidf_fallback,617,1,5.02,Medium
+com.facebook.lite,Facebook,It's my best app all in one and no lag,5,1,2026-07-27 12:38:53,,,play_store,it's my best app all in one and no lag,Praise,0.7408661,True,1,Positive,tfidf_fallback,619,1,1.366,Low
+com.facebook.lite,Facebook,fantastic...,5,0,2026-07-27 12:36:37,,,play_store,fantastic...,Praise,0.5779812,True,0,Neutral,tfidf_fallback,151,4,1.707,Low
+com.facebook.lite,Facebook,is very fast,5,1,2026-07-27 12:21:53,,,play_store,is very fast,Feature Request,0.57259905,True,0,Neutral,tfidf_fallback,621,1,2.866,Low
+com.facebook.lite,Facebook,easy useable,5,0,2026-07-27 12:12:07,,,play_store,easy useable,Praise,0.67698395,True,1,Positive,tfidf_fallback,623,1,1.02,Low
+com.facebook.lite,Facebook,amazing,5,0,2026-07-27 12:04:24,,,play_store,amazing,Praise,0.8699503,True,1,Positive,tfidf_fallback,135,10,2.298,Low
+com.facebook.lite,Facebook,perfect,5,0,2026-07-27 11:59:33,,,play_store,perfect,Praise,0.86609215,True,0,Neutral,tfidf_fallback,182,6,1.959,Low
+com.facebook.lite,Facebook,Amazing 😍,5,0,2026-07-27 11:52:00,,,play_store,amazing 😍,Praise,0.8699503,True,1,Positive,tfidf_fallback,135,10,2.298,Low
+com.facebook.lite,Facebook,Gorgeous,5,0,2026-07-27 11:45:36,,,play_store,gorgeous,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,625,1,3.52,Low
+com.facebook.lite,Facebook,wow,5,0,2026-07-27 11:41:07,,,play_store,wow,Praise,0.6070884,True,0,Neutral,tfidf_fallback,231,8,2.148,Low
+com.facebook.lite,Facebook,This application only great 👍,5,0,2026-07-27 11:28:04,,,play_store,this application only great 👍,Praise,0.94485736,True,1,Positive,tfidf_fallback,627,1,1.02,Low
+com.facebook.lite,Facebook,விரைவில் சரியான சேவை வடிவமைப்பு கொண்ட ஆப்ஸ்,4,0,2026-07-27 11:04:50,,,play_store,விரைவில் சரியான சேவை வடிவமைப்பு கொண்ட ஆப்ஸ்,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,630,1,4.27,Medium
+com.facebook.lite,Facebook,I cant use fb lite right now,5,0,2026-07-27 11:01:07,,,play_store,i cant use fb lite right now,Praise,0.57147,True,0,Neutral,tfidf_fallback,631,1,1.02,Low
+com.facebook.lite,Facebook,help with my get touch with family,5,0,2026-07-27 10:57:49,,,play_store,help with my get touch with family,Complaint,0.6312931,True,0,Neutral,tfidf_fallback,632,1,3.52,Low
+com.facebook.lite,Facebook,"Dear Support Team, I am disappointed that my accounts keep getting suspended without a clear explanation. If I violated a policy, please tell me exactly which one instead of sending automated responses. I kindly ask for a fair review and a more transparent moderation process. Thank you.",1,0,2026-07-27 10:40:31,,,play_store,"dear support team, i am disappointed that my accounts keep getting suspended without a clear explanation. if i violated a policy, please tell me exactly which one instead of sending automated responses. i kindly ask for a fair review and a more transparent moderation process. thank you.",Complaint,0.9096914,True,0,Neutral,tfidf_fallback,633,1,6.52,High
+com.facebook.lite,Facebook,Need very low space in our storage space.,5,0,2026-07-27 10:35:17,,,play_store,need very low space in our storage space.,Complaint,0.4836894,True,0,Neutral,tfidf_fallback,634,1,3.52,Low
+com.facebook.lite,Facebook,lala sa update tangngina,1,1,2026-07-27 10:22:51,,,play_store,lala sa update tangngina,Complaint,0.60595477,True,0,Neutral,tfidf_fallback,636,1,6.866,High
+com.facebook.lite,Facebook,ok,5,1,2026-07-27 10:18:55,,,play_store,ok,Praise,0.54720646,True,0,Neutral,tfidf_fallback,68,12,2.77,Low
+com.facebook.lite,Facebook,🥰🥰🥰,5,0,2026-07-27 10:18:44,,,play_store,🥰🥰🥰,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,637,1,3.52,Low
+com.facebook.lite,Facebook,ok,5,0,2026-07-27 10:05:45,,,play_store,ok,Praise,0.54720646,True,0,Neutral,tfidf_fallback,68,12,2.424,Low
+com.facebook.lite,Facebook,my fb got suspended without any valid reason.,1,0,2026-07-27 09:55:34,,,play_store,my fb got suspended without any valid reason.,Complaint,0.4133859,True,0,Neutral,tfidf_fallback,638,1,6.52,High
+com.facebook.lite,Facebook,Obotlhokwa selelo,1,1,2026-07-27 09:54:42,,,play_store,obotlhokwa selelo,Complaint,0.46711525,True,0,Neutral,tfidf_fallback,639,1,6.866,High
+com.facebook.lite,Facebook,FB keeps our memories/details safe for so long,5,1,2026-07-27 09:52:17,,,play_store,fb keeps our memories/details safe for so long,Feature Request,0.90405774,True,0,Neutral,tfidf_fallback,640,1,2.866,Low
+com.facebook.lite,Facebook,so interested apps,5,0,2026-07-27 09:50:09,,,play_store,so interested apps,Praise,0.8339552,True,0,Neutral,tfidf_fallback,641,1,1.02,Low
+com.facebook.lite,Facebook,account just get disabled,1,0,2026-07-27 09:47:07,,,play_store,account just get disabled,Complaint,0.6997868,True,0,Neutral,tfidf_fallback,642,1,6.52,High
+com.facebook.lite,Facebook,my account is dis able with out any violation and when you appeal it come up with error then your account will dis able permanently,1,0,2026-07-27 09:42:01,,,play_store,my account is dis able with out any violation and when you appeal it come up with error then your account will dis able permanently,Complaint,0.9186858,True,0,Neutral,tfidf_fallback,643,1,6.52,High
+com.facebook.lite,Facebook,How to access messages,5,0,2026-07-27 09:31:25,,,play_store,how to access messages,Complaint,0.57414037,True,0,Neutral,tfidf_fallback,645,1,3.52,Low

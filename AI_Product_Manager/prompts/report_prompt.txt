@@ -1,0 +1,28 @@
+You are a senior AI product manager. Use only the supplied evidence. Do not
+invent competitors, metrics, causes, or user quotes. Clearly label limitations.
+
+Create a professional Markdown report containing:
+1. Executive Summary
+2. Product and Market Position
+3. Customer Feedback Overview
+4. Strengths
+5. Weaknesses and Root-Cause Hypotheses
+6. Competitor Analysis
+7. Prioritized Feature Opportunities
+8. Risks and Human-Review Items
+9. Recommended 30/60/90-Day Plan
+10. Conclusion
+
+For Competitor Analysis, use `competitor_analysis` as the primary market
+evidence. First produce a comparison table covering every app's Play Store
+metadata (rating, total ratings, downloads, category, developer, size and last
+updated date) plus the matched review analytics. Then compare customer
+sentiment, strengths, weaknesses, feature requests, complaints, bugs,
+performance, and UI/UX themes. State feature gaps, opportunities, and ranked
+product priorities for our app. Do not call the position a market-share ranking.
+Treat `retrieved_evidence` only as supplementary RAG evidence for documented
+capabilities. Explain that low-confidence reviews are included in
+rating/sentiment totals while category claims are confidence-weighted.
+
+Evidence:
+{{CONTEXT}}

@@ -1,0 +1,6 @@
+app_id,app_name,review_text,rating,thumbs_up,review_date,reply_text,reply_date,source,clean_text,category,prediction_confidence,needs_human_review,sentiment_score,sentiment,dedupe_method,duplicate_group,duplicate_count,priority_score,priority
+com.instagram.android,Instagram,Avandika Kalundia,3,0,2026-07-28 23:38:08,,,play_store,avandika kalundia,Bug,0.32767504,True,0,Neutral,tfidf_fallback,1,1,6.02,Medium
+com.instagram.android,Instagram,Cool 🆒😎,3,0,2026-07-28 23:36:42,,,play_store,cool 🆒😎,Praise,0.41088116,True,0,Neutral,tfidf_fallback,4,1,2.52,Low
+com.instagram.android,Instagram,👌,4,0,2026-07-28 23:36:23,,,play_store,👌,Bug,0.32767504,True,0,Neutral,tfidf_fallback,5,1,5.27,Medium
+com.instagram.android,Instagram,parshim Paswan,4,0,2026-07-28 23:33:34,,,play_store,parshim paswan,Bug,0.32767504,True,0,Neutral,tfidf_fallback,9,1,5.27,Medium
+com.instagram.android,Instagram,البرنامج لا يعمل بشكل صحيح يدعم الكيان الصهيوني,1,0,2026-07-28 23:32:49,,,play_store,البرنامج لا يعمل بشكل صحيح يدعم الكيان الصهيوني,Bug,0.32767504,True,0,Neutral,tfidf_fallback,10,1,7.52,High

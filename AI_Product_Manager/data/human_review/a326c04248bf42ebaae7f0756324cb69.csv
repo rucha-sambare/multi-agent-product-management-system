@@ -1,0 +1,325 @@
+app_id,app_name,review_text,rating,thumbs_up,review_date,reply_text,reply_date,source,clean_text,category,prediction_confidence,vocabulary_hits,review_route,needs_human_review,requires_llm_review,classification_source,sentiment_score,sentiment,dedupe_method,duplicate_group,duplicate_count,priority_score,priority
+com.facebook.lite,facebook,buddhsdeb,5,0,2026-07-29 23:06:15,,,play_store,buddhsdeb,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,3,1,3.52,Low
+com.facebook.lite,facebook,dhuneya,5,0,2026-07-29 23:00:31,,,play_store,dhuneya,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,5,1,3.52,Low
+com.facebook.lite,facebook,gali.one,5,1,2026-07-29 22:56:07,,,play_store,gali.one,Complaint,0.486323,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,7,1,3.866,Low
+com.facebook.lite,facebook,مسلم لیگ ن کا شیر جناب متحرم اظہر علی قادری ژندہ باد,5,0,2026-07-29 22:52:49,,,play_store,مسلم لیگ ن کا شیر جناب متحرم اظہر علی قادری ژندہ باد,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,8,1,3.52,Low
+com.facebook.lite,facebook,Power,5,0,2026-07-29 22:45:54,,,play_store,power,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,10,1,3.52,Low
+com.facebook.lite,facebook,jador,5,0,2026-07-29 22:45:32,,,play_store,jador,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,11,1,3.52,Low
+com.facebook.lite,facebook,Chinecherem,5,0,2026-07-29 22:41:53,,,play_store,chinecherem,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,13,1,3.52,Low
+com.facebook.lite,facebook,dancing,4,0,2026-07-29 22:40:54,,,play_store,dancing,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,14,1,4.27,Medium
+com.facebook.lite,facebook,Thigh try,3,0,2026-07-29 22:39:44,,,play_store,thigh try,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,15,1,5.02,Medium
+com.facebook.lite,facebook,WORLD CLass App Bravo Muchos Gracias PieL Morena Mi Amor 👰🏻👰🏻👰🏻,5,11,2026-07-29 22:39:24,,,play_store,world class app bravo muchos gracias piel morena mi amor 👰🏻👰🏻👰🏻,Praise,0.47442004,7,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,16,1,2.262,Low
+com.facebook.lite,facebook,ধন্যবাদ,5,0,2026-07-29 22:34:09,,,play_store,ধন্যবাদ,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,19,2,3.824,Low
+com.facebook.lite,facebook,सुभाष चंद झा,5,0,2026-07-29 22:27:56,,,play_store,सुभाष चंद झा,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,22,1,3.52,Low
+com.facebook.lite,facebook,Soon,1,0,2026-07-29 22:26:36,,,play_store,soon,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,23,1,6.52,High
+com.facebook.lite,facebook,It's fun,5,0,2026-07-29 22:26:24,,,play_store,it's fun,Complaint,0.44692382,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,24,1,3.52,Low
+com.facebook.lite,facebook,facebook is doing well,5,0,2026-07-29 22:24:58,,,play_store,facebook is doing well,Praise,0.5720854,6,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,25,1,1.02,Low
+com.facebook.lite,facebook,অসাধারণ একটি অ্যাপ যার মাধ্যমে আমরা সারা বিশ্বের মানুষের কাছে পৌঁছে যেতে পারি,5,0,2026-07-29 22:22:12,,,play_store,অসাধারণ একটি অ্যাপ যার মাধ্যমে আমরা সারা বিশ্বের মানুষের কাছে পৌঁছে যেতে পারি,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,26,1,3.52,Low
+com.facebook.lite,facebook,কল আসার যাওয়ার সুবিধা হলে ভালো হতো,5,0,2026-07-29 22:16:50,,,play_store,কল আসার যাওয়ার সুবিধা হলে ভালো হতো,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,29,1,3.52,Low
+com.facebook.lite,facebook,Karolina Protsenko,5,0,2026-07-29 22:13:04,,,play_store,karolina protsenko,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,31,1,3.52,Low
+com.facebook.lite,facebook,urbjof,2,0,2026-07-29 22:12:26,,,play_store,urbjof,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,32,1,5.77,Medium
+com.facebook.lite,facebook,ើើផ្,4,0,2026-07-29 22:06:23,,,play_store,ើើផ្,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,33,1,4.27,Medium
+com.facebook.lite,facebook,snothando,5,0,2026-07-29 21:56:49,,,play_store,snothando,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,35,1,3.52,Low
+com.facebook.lite,facebook,Deleted the App,1,0,2026-07-29 21:51:30,,,play_store,deleted the app,Praise,0.46849838,5,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,36,1,4.02,Medium
+com.facebook.lite,facebook,knowledge,5,0,2026-07-29 21:51:23,,,play_store,knowledge,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,37,1,3.52,Low
+com.facebook.lite,facebook,for you,5,0,2026-07-29 21:44:45,,,play_store,for you,Praise,0.4737945,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,39,1,1.02,Low
+com.facebook.lite,facebook,plz add tap and hold 2x plz,1,0,2026-07-29 21:26:27,,,play_store,plz add tap and hold 2x plz,Complaint,0.4969823,6,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,45,1,6.52,High
+com.facebook.lite,facebook,ঠফঢ়ৎ,5,0,2026-07-29 21:18:53,,,play_store,ঠফঢ়ৎ,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,47,1,3.52,Low
+com.facebook.lite,facebook,Opeyemi,5,0,2026-07-29 21:12:30,,,play_store,opeyemi,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,48,1,3.52,Low
+com.facebook.lite,facebook,গুড,4,0,2026-07-29 21:07:58,,,play_store,গুড,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,50,1,4.27,Medium
+com.facebook.lite,facebook,Download,3,1,2026-07-29 21:03:27,,,play_store,download,Complaint,0.4569194,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,52,1,5.366,Medium
+com.facebook.lite,facebook,"Bright Uko, God alone",5,0,2026-07-29 20:52:14,,,play_store,"bright uko, god alone",Complaint,0.45008776,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,55,1,3.52,Low
+com.facebook.lite,facebook,Tiktok,5,0,2026-07-29 20:42:03,,,play_store,tiktok,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,63,1,3.52,Low
+com.facebook.lite,facebook,❤️❤️,4,0,2026-07-29 20:39:08,,,play_store,❤️❤️,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,65,1,4.27,Medium
+com.facebook.lite,facebook,Very satisfied,5,0,2026-07-29 20:37:24,,,play_store,very satisfied,Praise,0.59286857,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,66,1,1.02,Low
+com.facebook.lite,facebook,need messenger lite like previously,4,0,2026-07-29 20:33:14,,,play_store,need messenger lite like previously,Complaint,0.45575914,5,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,68,1,4.27,Medium
+com.facebook.lite,facebook,because make me feel better,5,0,2026-07-29 20:24:27,,,play_store,because make me feel better,Complaint,0.50444686,7,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,72,1,3.52,Low
+com.facebook.lite,facebook,I what to lorg in to nomer facebook plesse,5,0,2026-07-29 20:24:06,,,play_store,i what to lorg in to nomer facebook plesse,Complaint,0.44908252,6,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,73,1,3.52,Low
+com.facebook.lite,facebook,maso walagaa,5,0,2026-07-29 20:19:05,,,play_store,maso walagaa,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,75,1,3.52,Low
+com.facebook.lite,facebook,Tledima Chele 384,5,0,2026-07-29 20:15:30,,,play_store,tledima chele 384,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,78,1,3.52,Low
+com.facebook.lite,facebook,it's great I can talk to my old friends,5,0,2026-07-29 19:56:51,,,play_store,it's great i can talk to my old friends,Complaint,0.46093488,13,llm_ambiguity,True,True,xgboost,1,Positive,tfidf_fallback,85,1,3.52,Low
+com.facebook.lite,facebook,wat,4,0,2026-07-29 19:46:11,,,play_store,wat,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,88,1,4.27,Medium
+com.facebook.lite,facebook,খুব সুন্দর,5,0,2026-07-29 19:40:59,,,play_store,খুব সুন্দর,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,91,1,3.52,Low
+com.facebook.lite,facebook,exactly,5,0,2026-07-29 19:38:26,,,play_store,exactly,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,92,1,3.52,Low
+com.facebook.lite,facebook,নদ নে নে,5,0,2026-07-29 19:38:24,,,play_store,নদ নে নে,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,93,1,3.52,Low
+com.facebook.lite,facebook,Skhonaso,3,0,2026-07-29 19:37:53,,,play_store,skhonaso,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,94,1,5.02,Medium
+com.facebook.lite,facebook,Adverts rubbish only,1,0,2026-07-29 19:25:27,,,play_store,adverts rubbish only,Complaint,0.46711525,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,100,1,6.52,High
+com.facebook.lite,facebook,👍️,5,0,2026-07-29 19:23:42,,,play_store,👍️,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,101,1,3.52,Low
+com.facebook.lite,facebook,King abuuh,5,0,2026-07-29 19:19:34,,,play_store,king abuuh,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,103,1,3.52,Low
+com.facebook.lite,facebook,Baqgus,4,0,2026-07-29 19:15:08,,,play_store,baqgus,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,104,1,4.27,Medium
+com.facebook.lite,facebook,God's,5,0,2026-07-29 19:08:23,,,play_store,god's,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,106,1,3.52,Low
+com.facebook.lite,facebook,🥰🤝,5,0,2026-07-29 19:07:35,,,play_store,🥰🤝,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,107,1,3.52,Low
+com.facebook.lite,facebook,♥️♥️💞,5,0,2026-07-29 19:04:13,,,play_store,♥️♥️💞,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,108,1,3.52,Low
+com.facebook.lite,facebook,this is basically a message app...just use it okay,5,0,2026-07-29 19:02:11,,,play_store,this is basically a message app...just use it okay,Complaint,0.5089529,14,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,109,1,3.52,Low
+com.facebook.lite,facebook,angellah,1,0,2026-07-29 19:00:04,,,play_store,angellah,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,110,1,6.52,High
+com.facebook.lite,facebook,maganda name 6,5,0,2026-07-29 18:46:40,,,play_store,maganda name 6,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,114,1,3.52,Low
+com.facebook.lite,facebook,abubakar,5,0,2026-07-29 18:43:14,,,play_store,abubakar,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,116,1,3.52,Low
+com.facebook.lite,facebook,the appearence of images could be better,3,0,2026-07-29 18:42:50,,,play_store,the appearence of images could be better,Complaint,0.5378821,7,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,117,1,5.02,Medium
+com.facebook.lite,facebook,goodZ,4,0,2026-07-29 18:31:17,,,play_store,goodz,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,119,1,4.27,Medium
+com.facebook.lite,facebook,valo,5,0,2026-07-29 18:13:05,,,play_store,valo,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,122,1,3.52,Low
+com.facebook.lite,facebook,💀,4,0,2026-07-29 17:57:18,,,play_store,💀,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,129,1,4.27,Medium
+com.facebook.lite,facebook,that is true,5,0,2026-07-29 17:38:01,,,play_store,that is true,Complaint,0.4889652,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,130,1,3.52,Low
+com.facebook.lite,facebook,Ok,3,0,2026-07-29 17:32:10,,,play_store,ok,Praise,0.54720646,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,132,7,3.56,Low
+com.facebook.lite,facebook,fsha,5,1,2026-07-29 17:30:45,,,play_store,fsha,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,133,1,3.866,Low
+com.facebook.lite,facebook,surajdas,1,0,2026-07-29 17:30:24,,,play_store,surajdas,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,135,1,6.52,High
+com.facebook.lite,facebook,"Good app to use, load fast, the only problem I encountered is videos overlapping, 3 videos showing on screen as quarters instead of 1,even when you close and open it again",5,0,2026-07-29 17:30:19,,,play_store,"good app to use, load fast, the only problem i encountered is videos overlapping, 3 videos showing on screen as quarters instead of 1,even when you close and open it again",Feature Request,0.42412767,39,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,136,1,2.52,Low
+com.facebook.lite,facebook,unstoppable,5,1,2026-07-29 17:30:05,,,play_store,unstoppable,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,137,1,3.866,Low
+com.facebook.lite,facebook,interesting,5,0,2026-07-29 17:28:40,,,play_store,interesting,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,138,2,3.824,Low
+com.facebook.lite,facebook,Maloyo,5,0,2026-07-29 17:25:32,,,play_store,maloyo,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,139,1,3.52,Low
+com.facebook.lite,facebook,oa kaayu inyung data,1,0,2026-07-29 17:23:33,,,play_store,oa kaayu inyung data,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,141,1,6.52,High
+com.facebook.lite,facebook,❤️,5,0,2026-07-29 17:20:43,,,play_store,❤️,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,143,1,3.52,Low
+com.facebook.lite,facebook,more views ❤️,5,0,2026-07-29 17:16:53,,,play_store,more views ❤️,Complaint,0.50901014,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,144,1,3.52,Low
+com.facebook.lite,facebook,Suspended on. My account,1,0,2026-07-29 17:16:15,,,play_store,suspended on. my account,Complaint,0.5518974,6,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,145,1,6.52,High
+com.facebook.lite,facebook,koooo,2,0,2026-07-29 17:13:25,,,play_store,koooo,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,146,1,5.77,Medium
+com.facebook.lite,facebook,the message is not opening,1,0,2026-07-29 17:09:11,,,play_store,the message is not opening,Complaint,0.55974597,7,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,148,1,6.52,High
+com.facebook.lite,facebook,no funny😴,2,0,2026-07-29 17:03:07,,,play_store,no funny😴,Praise,0.5220663,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,149,1,3.27,Low
+com.facebook.lite,facebook,contraction buildings houses,5,0,2026-07-29 17:03:06,,,play_store,contraction buildings houses,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,150,1,3.52,Low
+com.facebook.lite,facebook,more adds,1,0,2026-07-29 17:02:33,,,play_store,more adds,Complaint,0.5417067,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,151,1,6.52,High
+com.facebook.lite,facebook,Open thes Facebook life,5,0,2026-07-29 16:58:31,,,play_store,open thes facebook life,Complaint,0.47579437,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,152,1,3.52,Low
+com.facebook.lite,facebook,it's very comfortable I use Easley,5,0,2026-07-29 16:51:15,,,play_store,it's very comfortable i use easley,Complaint,0.48469144,5,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,154,1,3.52,Low
+com.facebook.lite,facebook,When using the app its suddenly play the music,4,0,2026-07-29 16:47:18,,,play_store,when using the app its suddenly play the music,Praise,0.40466473,13,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,155,1,1.77,Low
+com.facebook.lite,facebook,convenient and reliable.,5,0,2026-07-29 16:43:37,,,play_store,convenient and reliable.,Praise,0.5514679,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,157,1,1.02,Low
+com.facebook.lite,facebook,Sume Samadder,5,0,2026-07-29 16:41:34,,,play_store,sume samadder,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,159,1,3.52,Low
+com.facebook.lite,facebook,🥰🥰🥰,5,0,2026-07-29 16:40:02,,,play_store,🥰🥰🥰,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,161,1,3.52,Low
+com.facebook.lite,facebook,plss back my face book lite,5,0,2026-07-29 16:30:55,,,play_store,plss back my face book lite,Complaint,0.4926616,6,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,165,1,3.52,Low
+com.facebook.lite,facebook,supar,1,1,2026-07-29 16:20:47,,,play_store,supar,Praise,0.4600092,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,168,1,4.366,Medium
+com.facebook.lite,facebook,exceptional,5,0,2026-07-29 16:17:49,,,play_store,exceptional,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,169,1,3.52,Low
+com.facebook.lite,facebook,Helpful application,5,1,2026-07-29 16:12:38,,,play_store,helpful application,Praise,0.52318496,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,171,1,1.366,Low
+com.facebook.lite,facebook,Ok,5,0,2026-07-29 16:05:18,,,play_store,ok,Praise,0.54720646,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,132,7,2.06,Low
+com.facebook.lite,facebook,ফেসবুক অফিসিয়াল এর থেকে ভালো লাগে এটা চালাতে,5,1,2026-07-29 15:58:48,,,play_store,ফেসবুক অফিসিয়াল এর থেকে ভালো লাগে এটা চালাতে,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,178,1,3.866,Low
+com.facebook.lite,facebook,Oww,5,0,2026-07-29 15:52:51,,,play_store,oww,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,179,1,3.52,Low
+com.facebook.lite,facebook,real,5,0,2026-07-29 15:34:22,,,play_store,real,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,184,1,3.52,Low
+com.facebook.lite,facebook,Jaymika,5,0,2026-07-29 15:29:59,,,play_store,jaymika,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,187,1,3.52,Low
+com.facebook.lite,facebook,It's just working fine,5,0,2026-07-29 15:25:41,,,play_store,it's just working fine,Praise,0.51654947,6,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,189,1,1.02,Low
+com.facebook.lite,facebook,"working together,,,United,,,,",5,0,2026-07-29 15:21:13,,,play_store,"working together,,,united,,,,",Praise,0.55451417,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,190,1,1.02,Low
+com.facebook.lite,facebook,Armaankhan,5,0,2026-07-29 15:14:42,,,play_store,armaankhan,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,193,1,3.52,Low
+com.facebook.lite,facebook,vvvvvvgooood,5,0,2026-07-29 15:12:50,,,play_store,vvvvvvgooood,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,195,1,3.52,Low
+com.facebook.lite,facebook,wonderful,1,0,2026-07-29 15:09:35,,,play_store,wonderful,Praise,0.58266306,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,196,2,4.324,Medium
+com.facebook.lite,facebook,good for me,5,0,2026-07-29 15:09:03,,,play_store,good for me,Praise,0.47367874,5,llm_ambiguity,True,True,xgboost,1,Positive,tfidf_fallback,197,2,1.324,Low
+com.facebook.lite,facebook,ভাল না,5,0,2026-07-29 15:08:37,,,play_store,ভাল না,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,198,1,3.52,Low
+com.facebook.lite,facebook,SK Razzak Khan,5,0,2026-07-29 15:08:04,,,play_store,sk razzak khan,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,199,1,3.52,Low
+com.facebook.lite,facebook,?X'8?,3,0,2026-07-29 15:05:55,,,play_store,?x'8?,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,200,1,5.02,Medium
+com.facebook.lite,facebook,hanni bekuma,5,0,2026-07-29 14:57:28,,,play_store,hanni bekuma,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,201,1,3.52,Low
+com.facebook.lite,facebook,very missing 🙂‍↕️,4,1,2026-07-29 14:56:23,,,play_store,very missing 🙂‍↕️,Praise,0.59286857,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,202,1,2.116,Low
+com.facebook.lite,facebook,injoy,5,0,2026-07-29 14:52:59,,,play_store,injoy,Complaint,0.4501211,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,203,1,3.52,Low
+com.facebook.lite,facebook,kupal ba kayo Kahit Hanapin nyo pa Tama Ko Sabihin Lang Akon,5,0,2026-07-29 14:48:15,,,play_store,kupal ba kayo kahit hanapin nyo pa tama ko sabihin lang akon,Complaint,0.46711525,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,204,1,3.52,Low
+com.facebook.lite,facebook,it's grat to use this app,4,0,2026-07-29 13:56:03,,,play_store,it's grat to use this app,Praise,0.4440068,8,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,214,1,1.77,Low
+com.facebook.lite,facebook,nag luluko,1,0,2026-07-29 13:53:40,,,play_store,nag luluko,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,215,1,6.52,High
+com.facebook.lite,facebook,Facebook open,3,0,2026-07-29 13:46:09,,,play_store,facebook open,Complaint,0.47683954,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,220,1,5.02,Medium
+com.facebook.lite,facebook,why it doesn't open,1,0,2026-07-29 13:43:39,,,play_store,why it doesn't open,Complaint,0.592847,7,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,221,1,6.52,High
+com.facebook.lite,facebook,"Alhamdulillah ইসলাম""কে ভালোবাসুন 🤝✅❤️🌺",5,0,2026-07-29 13:43:26,,,play_store,"alhamdulillah ইসলাম""কে ভালোবাসুন 🤝✅❤️🌺",Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,222,1,3.52,Low
+com.facebook.lite,facebook,it's a networking app good for your business,5,0,2026-07-29 13:40:12,,,play_store,it's a networking app good for your business,Feature Request,0.3681562,12,llm_ambiguity,True,True,xgboost,1,Positive,tfidf_fallback,224,1,2.52,Low
+com.facebook.lite,facebook,Absolutely fine,5,0,2026-07-29 13:32:02,,,play_store,absolutely fine,Complaint,0.46711525,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,225,1,3.52,Low
+com.facebook.lite,facebook,😎🆒,5,0,2026-07-29 13:27:06,,,play_store,😎🆒,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,226,1,3.52,Low
+com.facebook.lite,facebook,so good for this app,5,0,2026-07-29 13:20:55,,,play_store,so good for this app,Praise,0.49367294,9,llm_ambiguity,True,True,xgboost,1,Positive,tfidf_fallback,229,1,1.02,Low
+com.facebook.lite,facebook,ABDUL HI,5,0,2026-07-29 13:17:44,,,play_store,abdul hi,Praise,0.4581714,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,230,1,1.02,Low
+com.facebook.lite,facebook,Washim Akando,5,0,2026-07-29 13:14:20,,,play_store,washim akando,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,232,1,3.52,Low
+com.facebook.lite,facebook,Streefvzs,5,0,2026-07-29 13:13:43,,,play_store,streefvzs,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,233,1,3.52,Low
+com.facebook.lite,facebook,EKUNKE MOSES,5,0,2026-07-29 12:48:19,,,play_store,ekunke moses,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,239,1,3.52,Low
+com.facebook.lite,facebook,veiy Gam,5,0,2026-07-29 12:31:10,,,play_store,veiy gam,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,243,1,3.52,Low
+com.facebook.lite,facebook,सुरेश भोसले,3,0,2026-07-29 12:18:09,,,play_store,सुरेश भोसले,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,247,1,5.02,Medium
+com.facebook.lite,facebook,help,5,0,2026-07-29 12:09:14,,,play_store,help,Complaint,0.49979147,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,249,1,3.52,Low
+com.facebook.lite,facebook,Khan Rasel,2,0,2026-07-29 11:58:09,,,play_store,khan rasel,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,252,1,5.77,Medium
+com.facebook.lite,facebook,অনেক ভালো,4,0,2026-07-29 11:57:19,,,play_store,অনেক ভালো,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,253,1,4.27,Medium
+com.facebook.lite,facebook,❤️😍,5,0,2026-07-29 11:52:17,,,play_store,❤️😍,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,255,1,3.52,Low
+com.facebook.lite,facebook,so fast and easy,5,0,2026-07-29 11:51:24,,,play_store,so fast and easy,Feature Request,0.43535566,7,llm_ambiguity,True,True,xgboost,1,Positive,tfidf_fallback,256,1,2.52,Low
+com.facebook.lite,facebook,নাইস,1,0,2026-07-29 11:44:13,,,play_store,নাইস,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,260,1,6.52,High
+com.facebook.lite,facebook,tuujji,5,0,2026-07-29 11:42:49,,,play_store,tuujji,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,261,1,3.52,Low
+com.facebook.lite,facebook,",😁",3,0,2026-07-29 11:42:31,,,play_store,",😁",Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,262,1,5.02,Medium
+com.facebook.lite,facebook,they are doing well,5,0,2026-07-29 11:38:19,,,play_store,they are doing well,Praise,0.5040757,7,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,264,1,1.02,Low
+com.facebook.lite,facebook,Ayaw gumana sa cellphone ko,1,0,2026-07-29 11:30:10,,,play_store,ayaw gumana sa cellphone ko,Complaint,0.46711525,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,265,1,6.52,High
+com.facebook.lite,facebook,quality app,5,0,2026-07-29 11:22:08,,,play_store,quality app,Praise,0.5310082,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,268,1,1.02,Low
+com.facebook.lite,facebook,up,5,0,2026-07-29 11:20:29,,,play_store,up,Complaint,0.420047,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,269,1,3.52,Low
+com.facebook.lite,facebook,private ya hard lo Tok tok,5,0,2026-07-29 11:16:25,,,play_store,private ya hard lo tok tok,Complaint,0.5270073,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,271,1,3.52,Low
+com.facebook.lite,facebook,fevboock,5,0,2026-07-29 11:01:38,,,play_store,fevboock,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,276,1,3.52,Low
+com.facebook.lite,facebook,Bakit Hindi ko ma open facebook ko,5,0,2026-07-29 10:50:30,,,play_store,bakit hindi ko ma open facebook ko,Complaint,0.47579437,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,278,1,3.52,Low
+com.facebook.lite,facebook,😇,5,0,2026-07-29 10:45:21,,,play_store,😇,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,279,1,3.52,Low
+com.facebook.lite,facebook,Fast,5,0,2026-07-29 10:44:08,,,play_store,fast,Complaint,0.57217807,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,280,1,3.52,Low
+com.facebook.lite,facebook,👍👋,1,4,2026-07-29 10:40:55,,,play_store,👍👋,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,281,1,7.325,High
+com.facebook.lite,facebook,it the right,5,0,2026-07-29 10:33:47,,,play_store,it the right,Complaint,0.5761042,5,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,283,1,3.52,Low
+com.facebook.lite,facebook,ဒေး ဒေး,5,0,2026-07-29 10:32:55,,,play_store,ဒေး ဒေး,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,284,1,3.52,Low
+com.facebook.lite,facebook,বিউটিফুল অ্যাপস আই লাভ ফেসবুক,5,0,2026-07-29 10:19:00,,,play_store,বিউটিফুল অ্যাপস আই লাভ ফেসবুক,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,288,1,3.52,Low
+com.facebook.lite,facebook,not satisfied,5,0,2026-07-29 09:56:59,,,play_store,not satisfied,Complaint,0.47515485,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,290,1,3.52,Low
+com.facebook.lite,facebook,suuuuuupaaaar,5,0,2026-07-29 09:49:01,,,play_store,suuuuuupaaaar,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,294,1,3.52,Low
+com.facebook.lite,facebook,perfect app I can recommend to anyone without doubt,5,0,2026-07-29 09:37:51,,,play_store,perfect app i can recommend to anyone without doubt,Complaint,0.501742,11,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,295,1,3.52,Low
+com.facebook.lite,facebook,Facebook lite is cool,5,0,2026-07-29 09:24:17,,,play_store,facebook lite is cool,Praise,0.49730486,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,300,1,1.02,Low
+com.facebook.lite,facebook,👍,5,0,2026-07-29 09:16:56,,,play_store,👍,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,302,1,3.52,Low
+com.facebook.lite,facebook,salamat,5,0,2026-07-29 09:12:41,,,play_store,salamat,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,303,1,3.52,Low
+com.facebook.lite,facebook,najmul,5,0,2026-07-29 09:12:09,,,play_store,najmul,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,304,1,3.52,Low
+com.facebook.lite,facebook,utujui,2,0,2026-07-29 09:01:54,,,play_store,utujui,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,306,1,5.77,Medium
+com.facebook.lite,facebook,give us new updates,3,0,2026-07-29 08:58:48,,,play_store,give us new updates,Complaint,0.44131657,5,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,307,1,5.02,Medium
+com.facebook.lite,facebook,i support this app,5,0,2026-07-29 08:52:31,,,play_store,i support this app,Feature Request,0.49334893,5,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,309,1,2.52,Low
+com.facebook.lite,facebook,og MaL,5,0,2026-07-29 08:17:33,,,play_store,og mal,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,316,1,3.52,Low
+com.facebook.lite,facebook,ধন্যবাদ সবাইকে সব কিছুর জন্য 🥰🥰,5,0,2026-07-29 08:17:13,,,play_store,ধন্যবাদ সবাইকে সব কিছুর জন্য 🥰🥰,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,317,1,3.52,Low
+com.facebook.lite,facebook,kobe golo,1,0,2026-07-29 08:16:52,,,play_store,kobe golo,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,318,1,6.52,High
+com.facebook.lite,facebook,"this app is abnormally function, you will hear some music when you open it.",1,0,2026-07-29 07:53:41,,,play_store,"this app is abnormally function, you will hear some music when you open it.",Praise,0.5225178,18,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,321,1,4.02,Medium
+com.facebook.lite,facebook,جيد جدا افتح,3,0,2026-07-29 07:47:17,,,play_store,جيد جدا افتح,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,322,1,5.02,Medium
+com.facebook.lite,facebook,විදුෂාන්,5,0,2026-07-29 07:40:02,,,play_store,විදුෂාන්,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,325,1,3.52,Low
+com.facebook.lite,facebook,Harish saud,1,0,2026-07-29 07:38:33,,,play_store,harish saud,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,326,1,6.52,High
+com.facebook.lite,facebook,हाय 🖐️,5,0,2026-07-29 07:38:20,,,play_store,हाय 🖐️,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,327,1,3.52,Low
+com.facebook.lite,facebook,execelent,5,0,2026-07-29 07:34:48,,,play_store,execelent,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,328,1,3.52,Low
+com.facebook.lite,facebook,jos,5,0,2026-07-29 07:15:22,,,play_store,jos,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,332,1,3.52,Low
+com.facebook.lite,facebook,too much scam,1,1,2026-07-29 07:02:05,,,play_store,too much scam,Complaint,0.5906918,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,334,1,6.866,High
+com.facebook.lite,facebook,Tôi thực sự yêu nó nhưng có thể nó sẽ tiếp tục tốt đẹp và không bao giờ quay trở lại,5,0,2026-07-29 06:29:46,,,play_store,tôi thực sự yêu nó nhưng có thể nó sẽ tiếp tục tốt đẹp và không bao giờ quay trở lại,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,337,1,3.52,Low
+com.facebook.lite,facebook,pat 2,5,0,2026-07-29 06:22:55,,,play_store,pat 2,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,339,1,3.52,Low
+com.facebook.lite,facebook,okyyy,3,0,2026-07-29 06:08:26,,,play_store,okyyy,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,342,1,5.02,Medium
+com.facebook.lite,facebook,♥️❤️‍🔥,5,0,2026-07-29 06:07:14,,,play_store,♥️❤️‍🔥,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,343,1,3.52,Low
+com.facebook.lite,facebook,open my face book,4,0,2026-07-29 05:35:22,,,play_store,open my face book,Complaint,0.46372166,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,347,1,4.27,Medium
+com.facebook.lite,facebook,i love it when I make friends and meet more people it like travelling around the world,4,0,2026-07-29 05:00:44,,,play_store,i love it when i make friends and meet more people it like travelling around the world,Complaint,0.5710523,20,llm_ambiguity,True,True,xgboost,1,Positive,tfidf_fallback,352,1,4.27,Medium
+com.facebook.lite,facebook,ভালোই,5,0,2026-07-29 04:56:26,,,play_store,ভালোই,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,353,1,3.52,Low
+com.facebook.lite,facebook,❤️,5,0,2026-07-29 04:56:04,,,play_store,❤️,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,354,1,3.52,Low
+com.facebook.lite,facebook,Stargold,5,0,2026-07-29 04:52:54,,,play_store,stargold,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,355,1,3.52,Low
+com.facebook.lite,facebook,Ok,5,0,2026-07-29 04:50:45,,,play_store,ok,Praise,0.54720646,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,132,7,2.06,Low
+com.facebook.lite,facebook,essier to comunacate,5,0,2026-07-29 04:26:30,,,play_store,essier to comunacate,Complaint,0.46235487,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,359,1,3.52,Low
+com.facebook.lite,facebook,iloveyou,5,0,2026-07-29 04:15:26,,,play_store,iloveyou,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,360,1,3.52,Low
+com.facebook.lite,facebook,hlela,1,0,2026-07-29 04:02:58,,,play_store,hlela,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,363,1,6.52,High
+com.facebook.lite,facebook,Qamarzaman,1,0,2026-07-29 04:01:11,,,play_store,qamarzaman,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,364,1,6.52,High
+com.facebook.lite,facebook,ang pangit ni facebook Ngayon,1,0,2026-07-29 03:44:49,,,play_store,ang pangit ni facebook ngayon,Complaint,0.57694805,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,366,1,6.52,High
+com.facebook.lite,facebook,I will 0,5,0,2026-07-29 03:39:52,,,play_store,i will 0,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,367,1,3.52,Low
+com.facebook.lite,facebook,I have more expries,5,1,2026-07-29 03:32:53,,,play_store,i have more expries,Complaint,0.5129584,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,371,1,3.866,Low
+com.facebook.lite,facebook,tanginamo nananahimik account ko d-disable mo nanaman,1,0,2026-07-29 03:22:26,,,play_store,tanginamo nananahimik account ko d-disable mo nanaman,Complaint,0.55378157,5,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,374,1,6.52,High
+com.facebook.lite,facebook,fahim,3,0,2026-07-29 03:10:58,,,play_store,fahim,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,376,1,5.02,Medium
+com.facebook.lite,facebook,😍😍😍,5,0,2026-07-29 03:02:19,,,play_store,😍😍😍,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,377,1,3.52,Low
+com.facebook.lite,facebook,Nigeria,5,0,2026-07-29 02:53:19,,,play_store,nigeria,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,379,1,3.52,Low
+com.facebook.lite,facebook,ok,5,0,2026-07-29 02:29:07,,,play_store,ok,Praise,0.54720646,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,132,7,2.06,Low
+com.facebook.lite,facebook,always alhamdulilah,5,0,2026-07-29 02:16:09,,,play_store,always alhamdulilah,Complaint,0.5341623,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,387,1,3.52,Low
+com.facebook.lite,facebook,I'm fully excited with the app,5,0,2026-07-29 01:53:07,,,play_store,i'm fully excited with the app,Complaint,0.44982937,7,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,389,1,3.52,Low
+com.facebook.lite,facebook,i need to push account,5,0,2026-07-29 01:39:06,,,play_store,i need to push account,Complaint,0.5721581,5,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,393,1,3.52,Low
+com.facebook.lite,facebook,optional,5,1,2026-07-29 01:36:24,,,play_store,optional,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,394,1,3.866,Low
+com.facebook.lite,facebook,rasel,5,1,2026-07-29 01:34:43,,,play_store,rasel,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,395,1,3.866,Low
+com.facebook.lite,facebook,Very enjoyable,5,0,2026-07-29 01:31:51,,,play_store,very enjoyable,Praise,0.5928665,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,396,1,1.02,Low
+com.facebook.lite,facebook,Music 🎶 and Dancing,5,0,2026-07-29 01:31:04,,,play_store,music 🎶 and dancing,Praise,0.4508993,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,397,1,1.02,Low
+com.facebook.lite,facebook,👍,5,0,2026-07-29 01:25:57,,,play_store,👍,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,398,1,3.52,Low
+com.facebook.lite,facebook,submit,5,0,2026-07-29 01:25:36,,,play_store,submit,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,399,1,3.52,Low
+com.facebook.lite,facebook,👀💪,5,0,2026-07-29 01:22:36,,,play_store,👀💪,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,400,1,3.52,Low
+com.facebook.lite,facebook,Alii yuusuf,5,0,2026-07-29 01:19:53,,,play_store,alii yuusuf,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,401,1,3.52,Low
+com.facebook.lite,facebook,😮‍💨,5,0,2026-07-29 01:16:52,,,play_store,😮‍💨,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,403,1,3.52,Low
+com.facebook.lite,facebook,habibu musa,5,0,2026-07-29 01:12:46,,,play_store,habibu musa,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,404,1,3.52,Low
+com.facebook.lite,facebook,zomba,5,1,2026-07-29 01:08:43,,,play_store,zomba,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,405,1,3.866,Low
+com.facebook.lite,facebook,(000000000000∅000000000000000),5,0,2026-07-29 00:48:40,,,play_store,(000000000000∅000000000000000),Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,407,1,3.52,Low
+com.facebook.lite,facebook,💘,5,0,2026-07-29 00:47:14,,,play_store,💘,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,408,1,3.52,Low
+com.facebook.lite,facebook,Mazba,5,0,2026-07-29 00:46:59,,,play_store,mazba,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,410,1,3.52,Low
+com.facebook.lite,facebook,sorry,5,0,2026-07-29 00:46:16,,,play_store,sorry,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,411,1,3.52,Low
+com.facebook.lite,facebook,🔥🔥🔥,5,0,2026-07-29 00:35:59,,,play_store,🔥🔥🔥,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,412,1,3.52,Low
+com.facebook.lite,facebook,Taddaseee,5,0,2026-07-29 00:30:04,,,play_store,taddaseee,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,415,1,3.52,Low
+com.facebook.lite,facebook,I luv my little girl,4,0,2026-07-29 00:06:25,,,play_store,i luv my little girl,Complaint,0.4560489,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,420,1,4.27,Medium
+com.facebook.lite,facebook,oop,4,0,2026-07-29 00:06:14,,,play_store,oop,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,421,1,4.27,Medium
+com.facebook.lite,facebook,gffar,5,0,2026-07-29 00:05:39,,,play_store,gffar,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,422,1,3.52,Low
+com.facebook.lite,facebook,humble your self,5,0,2026-07-29 00:01:33,,,play_store,humble your self,Complaint,0.46515325,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,424,1,3.52,Low
+com.facebook.lite,facebook,Easy and fast way to connect with people,5,0,2026-07-28 23:59:28,,,play_store,easy and fast way to connect with people,Praise,0.5488789,14,llm_ambiguity,True,True,xgboost,1,Positive,tfidf_fallback,426,1,1.02,Low
+com.facebook.lite,facebook,fantastic,5,0,2026-07-28 23:58:50,,,play_store,fantastic,Praise,0.5779812,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,427,2,1.324,Low
+com.facebook.lite,facebook,Uzaifakhan,1,0,2026-07-28 23:47:34,,,play_store,uzaifakhan,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,429,1,6.52,High
+com.facebook.lite,facebook,yousuf,1,0,2026-07-28 23:43:51,,,play_store,yousuf,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,431,1,6.52,High
+com.facebook.lite,facebook,Simple but not reliable,2,11,2026-07-28 23:43:44,,,play_store,simple but not reliable,Complaint,0.5263323,5,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,432,1,7.012,High
+com.facebook.lite,facebook,🙂🖤,5,0,2026-07-28 23:35:52,,,play_store,🙂🖤,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,433,1,3.52,Low
+com.facebook.lite,facebook,Facebooklite,5,0,2026-07-28 23:32:07,,,play_store,facebooklite,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,434,1,3.52,Low
+com.facebook.lite,facebook,Hqiiq kawrra Baale,5,0,2026-07-28 23:25:45,,,play_store,hqiiq kawrra baale,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,435,1,3.52,Low
+com.facebook.lite,facebook,orvias nongalo spha,5,0,2026-07-28 23:16:13,,,play_store,orvias nongalo spha,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,438,1,3.52,Low
+com.facebook.lite,facebook,bachpan Hi sahi tha mere dost,5,0,2026-07-28 23:15:23,,,play_store,bachpan hi sahi tha mere dost,Complaint,0.4800682,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,439,1,3.52,Low
+com.facebook.lite,facebook,ilove this app,5,0,2026-07-28 23:08:58,,,play_store,ilove this app,Complaint,0.5008574,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,443,1,3.52,Low
+com.facebook.lite,facebook,Up Date is taking 1 week after,5,0,2026-07-28 23:05:18,,,play_store,up date is taking 1 week after,Complaint,0.41249982,7,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,444,1,3.52,Low
+com.facebook.lite,facebook,0. 9=,5,0,2026-07-28 23:01:54,,,play_store,0. 9=,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,445,1,3.52,Low
+com.facebook.lite,facebook,Onek sondor,5,0,2026-07-28 23:01:19,,,play_store,onek sondor,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,446,1,3.52,Low
+com.facebook.lite,facebook,❤️❤️❤️❤️❤️❤️❤️❤️,5,0,2026-07-28 22:47:13,,,play_store,❤️❤️❤️❤️❤️❤️❤️❤️,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,452,1,3.52,Low
+com.facebook.lite,facebook,Marvelous,5,0,2026-07-28 22:41:05,,,play_store,marvelous,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,453,1,3.52,Low
+com.facebook.lite,facebook,জসিম,5,0,2026-07-28 22:34:25,,,play_store,জসিম,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,454,1,3.52,Low
+com.facebook.lite,facebook,hello my friend,5,0,2026-07-28 22:33:00,,,play_store,hello my friend,Complaint,0.44321096,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,456,1,3.52,Low
+com.facebook.lite,facebook,Nike,5,0,2026-07-28 22:25:35,,,play_store,nike,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,457,1,3.52,Low
+com.facebook.lite,facebook,AbdulazisGampal,5,0,2026-07-28 22:22:00,,,play_store,abdulazisgampal,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,460,1,3.52,Low
+com.facebook.lite,facebook,bigk fan,5,0,2026-07-28 22:07:29,,,play_store,bigk fan,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,463,1,3.52,Low
+com.facebook.lite,facebook,pangit,5,1,2026-07-28 22:05:18,,,play_store,pangit,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,464,1,3.866,Low
+com.facebook.lite,facebook,Facebook social,4,1,2026-07-28 22:04:07,,,play_store,facebook social,Complaint,0.46711525,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,465,1,4.616,Medium
+com.facebook.lite,facebook,One of the best apps I definitely like it,5,0,2026-07-28 21:51:47,,,play_store,one of the best apps i definitely like it,Praise,0.47817233,13,llm_ambiguity,True,True,xgboost,1,Positive,tfidf_fallback,470,1,1.02,Low
+com.facebook.lite,facebook,সাকিব,2,0,2026-07-28 21:47:21,,,play_store,সাকিব,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,471,1,5.77,Medium
+com.facebook.lite,facebook,most important app,5,0,2026-07-28 21:43:38,,,play_store,most important app,Praise,0.57185227,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,472,1,1.02,Low
+com.facebook.lite,facebook,What they show teach moral,5,0,2026-07-28 21:43:35,,,play_store,what they show teach moral,Complaint,0.34158275,6,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,473,1,3.52,Low
+com.facebook.lite,facebook,pagol,1,1,2026-07-28 21:33:30,,,play_store,pagol,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,480,1,6.866,High
+com.facebook.lite,facebook,RYAD VI,5,1,2026-07-28 21:27:11,,,play_store,ryad vi,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,481,1,3.866,Low
+com.facebook.lite,facebook,♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️,5,1,2026-07-28 21:17:18,,,play_store,♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,483,1,3.866,Low
+com.facebook.lite,facebook,something about it.,1,1,2026-07-28 21:17:04,,,play_store,something about it.,Complaint,0.4454776,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,484,1,6.866,High
+com.facebook.lite,facebook,💜,5,1,2026-07-28 21:16:12,,,play_store,💜,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,485,1,3.866,Low
+com.facebook.lite,facebook,sooogoood,5,0,2026-07-28 21:07:55,,,play_store,sooogoood,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,488,1,3.52,Low
+com.facebook.lite,facebook,maliwa,5,0,2026-07-28 21:04:43,,,play_store,maliwa,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,489,1,3.52,Low
+com.facebook.lite,facebook,💙,3,0,2026-07-28 21:03:53,,,play_store,💙,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,490,1,5.02,Medium
+com.facebook.lite,facebook,good not enough,3,0,2026-07-28 21:02:09,,,play_store,good not enough,Praise,0.5406528,4,llm_ambiguity,True,True,xgboost,1,Positive,tfidf_fallback,492,1,2.52,Low
+com.facebook.lite,facebook,use face book,2,0,2026-07-28 20:43:38,,,play_store,use face book,Complaint,0.4783288,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,495,1,5.77,Medium
+com.facebook.lite,facebook,👍🏾,4,0,2026-07-28 20:41:35,,,play_store,👍🏾,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,497,1,4.27,Medium
+com.facebook.lite,facebook,👍👍👍,5,0,2026-07-28 20:37:10,,,play_store,👍👍👍,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,498,1,3.52,Low
+com.facebook.lite,facebook,Sulid,5,0,2026-07-28 20:21:37,,,play_store,sulid,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,503,1,3.52,Low
+com.facebook.lite,facebook,Why are not supposed in my fon??,2,0,2026-07-28 20:16:19,,,play_store,why are not supposed in my fon??,Praise,0.4228829,9,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,505,1,3.27,Low
+com.facebook.lite,facebook,not sure,5,0,2026-07-28 20:15:36,,,play_store,not sure,Complaint,0.47515485,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,506,1,3.52,Low
+com.facebook.lite,facebook,Messengerသံုးမရဘူး,5,1,2026-07-28 20:03:53,,,play_store,messengerသံုးမရဘူး,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,508,1,3.866,Low
+com.facebook.lite,facebook,kawawa senyo di maka pag backread,1,0,2026-07-28 20:01:26,,,play_store,kawawa senyo di maka pag backread,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,510,1,6.52,High
+com.facebook.lite,facebook,number 1,5,0,2026-07-28 19:57:18,,,play_store,number 1,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,512,1,3.52,Low
+com.facebook.lite,facebook,nang sususpend nang account panget!,1,0,2026-07-28 19:57:05,,,play_store,nang sususpend nang account panget!,Complaint,0.44654876,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,513,1,6.52,High
+com.facebook.lite,facebook,ok,5,0,2026-07-28 19:55:09,,,play_store,ok,Praise,0.54720646,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,132,7,2.06,Low
+com.facebook.lite,facebook,cool app,5,0,2026-07-28 19:41:16,,,play_store,cool app,Feature Request,0.51850665,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,517,2,2.824,Low
+com.facebook.lite,facebook,ok,5,0,2026-07-28 19:30:19,,,play_store,ok,Praise,0.54720646,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,132,7,2.06,Low
+com.facebook.lite,facebook,❤️❤️,5,0,2026-07-28 19:28:41,,,play_store,❤️❤️,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,519,1,3.52,Low
+com.facebook.lite,facebook,faild,1,0,2026-07-28 19:26:00,,,play_store,faild,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,520,1,6.52,High
+com.facebook.lite,facebook,Very exellent,5,0,2026-07-28 19:04:52,,,play_store,very exellent,Praise,0.59286857,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,522,1,1.02,Low
+com.facebook.lite,facebook,ayaw gumana e ayan 1 ka sakin,1,0,2026-07-28 18:51:09,,,play_store,ayaw gumana e ayan 1 ka sakin,Complaint,0.46711525,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,524,1,6.52,High
+com.facebook.lite,facebook,outstanding,5,0,2026-07-28 18:38:05,,,play_store,outstanding,Praise,0.51602155,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,526,1,1.02,Low
+com.facebook.lite,facebook,I want to see my inbox,5,0,2026-07-28 18:36:59,,,play_store,i want to see my inbox,Complaint,0.55269116,8,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,527,1,3.52,Low
+com.facebook.lite,facebook,is not downloading on my phone,5,0,2026-07-28 18:24:23,,,play_store,is not downloading on my phone,Feature Request,0.5752879,9,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,530,1,2.52,Low
+com.facebook.lite,facebook,nices,5,0,2026-07-28 18:23:05,,,play_store,nices,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,531,1,3.52,Low
+com.facebook.lite,facebook,suspended account again.meta?,1,0,2026-07-28 18:17:12,,,play_store,suspended account again.meta?,Complaint,0.4648561,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,532,1,6.52,High
+com.facebook.lite,facebook,better🇿🇲🇿🇼,4,0,2026-07-28 17:52:40,,,play_store,better🇿🇲🇿🇼,Complaint,0.59037757,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,538,1,4.27,Medium
+com.facebook.lite,facebook,Cool app,5,0,2026-07-28 17:50:53,,,play_store,cool app,Feature Request,0.51850665,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,517,2,2.824,Low
+com.facebook.lite,facebook,Wabantwana ❤️‍🔥,5,0,2026-07-28 17:39:51,,,play_store,wabantwana ❤️‍🔥,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,539,1,3.52,Low
+com.facebook.lite,facebook,much better,4,0,2026-07-28 17:22:01,,,play_store,much better,Complaint,0.3784091,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,544,1,4.27,Medium
+com.facebook.lite,facebook,To good for me,5,0,2026-07-28 17:12:47,,,play_store,to good for me,Praise,0.45168272,6,llm_ambiguity,True,True,xgboost,1,Positive,tfidf_fallback,548,1,1.02,Low
+com.facebook.lite,facebook,helpful,5,0,2026-07-28 17:12:29,,,play_store,helpful,Praise,0.5241241,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,549,1,1.02,Low
+com.facebook.lite,facebook,So fast and reliable,3,0,2026-07-28 16:52:12,,,play_store,so fast and reliable,Complaint,0.43036565,7,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,550,1,5.02,Medium
+com.facebook.lite,facebook,স্যার আমার ফেসবুকটা ঠিক হবে না,5,0,2026-07-28 16:21:01,,,play_store,স্যার আমার ফেসবুকটা ঠিক হবে না,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,558,1,3.52,Low
+com.facebook.lite,facebook,fantastic 🔥,4,1,2026-07-28 16:10:43,,,play_store,fantastic 🔥,Praise,0.5779812,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,427,2,2.421,Low
+com.facebook.lite,facebook,potek nayan LAGING NAG DIDISABLE ACCOUNT WALANG PASABE,1,0,2026-07-28 15:57:31,,,play_store,potek nayan laging nag didisable account walang pasabe,Complaint,0.55378157,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,560,1,6.52,High
+com.facebook.lite,facebook,. I don't know what I think now,5,0,2026-07-28 15:53:17,,,play_store,. i don't know what i think now,Praise,0.40726763,7,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,562,1,1.02,Low
+com.facebook.lite,facebook,Friendly,5,0,2026-07-28 15:53:16,,,play_store,friendly,Complaint,0.5706713,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,563,1,3.52,Low
+com.facebook.lite,facebook,🙂,1,0,2026-07-28 15:38:25,,,play_store,🙂,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,567,1,6.52,High
+com.facebook.lite,facebook,is fine,5,0,2026-07-28 15:33:40,,,play_store,is fine,Complaint,0.4595299,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,568,1,3.52,Low
+com.facebook.lite,facebook,better than Facebook,5,0,2026-07-28 15:26:25,,,play_store,better than facebook,Praise,0.49999702,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,571,1,1.02,Low
+com.facebook.lite,facebook,Laugh,5,0,2026-07-28 15:22:41,,,play_store,laugh,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,573,1,3.52,Low
+com.facebook.lite,facebook,ok,5,0,2026-07-28 15:17:16,,,play_store,ok,Praise,0.54720646,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,132,7,2.06,Low
+com.facebook.lite,facebook,bohot solo hay,1,0,2026-07-28 14:58:49,,,play_store,bohot solo hay,Complaint,0.46711525,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,580,1,6.52,High
+com.facebook.lite,facebook,it's fast and reliable,4,0,2026-07-28 14:43:00,,,play_store,it's fast and reliable,Praise,0.48076418,7,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,581,1,1.77,Low
+com.facebook.lite,facebook,average,4,0,2026-07-28 14:07:10,,,play_store,average,Praise,0.46584737,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,587,1,1.77,Low
+com.facebook.lite,facebook,😍,5,1,2026-07-28 13:51:10,,,play_store,😍,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,589,1,3.866,Low
+com.facebook.lite,facebook,really appreciate it ☺️,5,0,2026-07-28 13:37:43,,,play_store,really appreciate it ☺️,Complaint,0.49242526,5,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,594,1,3.52,Low
+com.facebook.lite,facebook,good for me,4,0,2026-07-28 13:12:54,,,play_store,good for me,Praise,0.47367874,5,llm_ambiguity,True,True,xgboost,1,Positive,tfidf_fallback,197,2,2.074,Low
+com.facebook.lite,facebook,😊😊,5,0,2026-07-28 12:52:59,,,play_store,😊😊,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,601,1,3.52,Low
+com.facebook.lite,facebook,calu nathi satu,1,0,2026-07-28 12:23:09,,,play_store,calu nathi satu,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,603,1,6.52,High
+com.facebook.lite,facebook,namba one,5,0,2026-07-28 11:58:14,,,play_store,namba one,Complaint,0.49374285,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,606,1,3.52,Low
+com.facebook.lite,facebook,🥰🥰,5,0,2026-07-28 11:55:22,,,play_store,🥰🥰,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,608,1,3.52,Low
+com.facebook.lite,facebook,well,5,0,2026-07-28 11:44:22,,,play_store,well,Praise,0.45743695,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,611,2,1.324,Low
+com.facebook.lite,facebook,Nc app,5,0,2026-07-28 11:00:05,,,play_store,nc app,Complaint,0.59465367,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,620,1,3.52,Low
+com.facebook.lite,facebook,👍,5,0,2026-07-28 10:46:45,,,play_store,👍,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,622,1,3.52,Low
+com.facebook.lite,facebook,nicee,5,0,2026-07-28 10:38:27,,,play_store,nicee,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,624,1,3.52,Low
+com.facebook.lite,facebook,suspending and disabling account,1,0,2026-07-28 10:35:53,,,play_store,suspending and disabling account,Complaint,0.4550762,3,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,626,1,6.52,High
+com.facebook.lite,facebook,all goods,5,1,2026-07-28 09:59:22,,,play_store,all goods,Complaint,0.48588455,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,630,1,3.866,Low
+com.facebook.lite,facebook,dankie,5,0,2026-07-28 09:51:10,,,play_store,dankie,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,633,1,3.52,Low
+com.facebook.lite,facebook,always suspending my account,1,0,2026-07-28 09:46:58,,,play_store,always suspending my account,Complaint,0.59053135,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,634,1,6.52,High
+com.facebook.lite,facebook,reels are not playing,3,0,2026-07-28 09:36:22,,,play_store,reels are not playing,Praise,0.490917,5,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,636,1,2.52,Low
+com.facebook.lite,facebook,open my account,5,0,2026-07-28 09:26:33,,,play_store,open my account,Complaint,0.54426885,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,638,1,3.52,Low
+com.facebook.lite,facebook,ramro xa,5,1,2026-07-28 09:17:04,,,play_store,ramro xa,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,640,1,3.866,Low
+com.facebook.lite,facebook,I think that Facebook should be more valuable,2,1,2026-07-28 09:08:08,,,play_store,i think that facebook should be more valuable,Complaint,0.5457818,8,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,641,1,6.116,Medium
+com.facebook.lite,facebook,Facebook lite is very good apps,5,0,2026-07-28 08:50:49,,,play_store,facebook lite is very good apps,Feature Request,0.39944065,9,llm_ambiguity,True,True,xgboost,1,Positive,tfidf_fallback,643,1,2.52,Low
+com.facebook.lite,facebook,yuup,5,0,2026-07-28 08:48:57,,,play_store,yuup,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,644,1,3.52,Low
+com.facebook.lite,facebook,ধন্যবাদ,3,0,2026-07-28 08:23:18,,,play_store,ধন্যবাদ,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,19,2,5.324,Medium
+com.facebook.lite,facebook,❤️❤️,5,0,2026-07-28 07:39:11,,,play_store,❤️❤️,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,650,1,3.52,Low
+com.facebook.lite,facebook,"wonderful, recommended",5,0,2026-07-28 07:35:53,,,play_store,"wonderful, recommended",Praise,0.58266306,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,652,1,1.02,Low
+com.facebook.lite,facebook,Wonderful,5,1,2026-07-28 07:09:56,,,play_store,wonderful,Praise,0.58266306,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,196,2,1.671,Low
+com.facebook.lite,facebook,my facebook always suspend .,1,0,2026-07-28 07:06:36,,,play_store,my facebook always suspend .,Complaint,0.5298409,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,654,1,6.52,High
+com.facebook.lite,facebook,not logy,5,0,2026-07-28 06:42:03,,,play_store,not logy,Complaint,0.4751547,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,657,1,3.52,Low
+com.facebook.lite,facebook,really enjoying with this app,5,0,2026-07-28 06:23:35,,,play_store,really enjoying with this app,Praise,0.5436199,7,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,659,1,1.02,Low
+com.facebook.lite,facebook,Beautyful,5,0,2026-07-28 05:51:48,,,play_store,beautyful,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,661,1,3.52,Low
+com.facebook.lite,facebook,interesting,5,0,2026-07-28 05:43:44,,,play_store,interesting,Complaint,0.46711525,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,138,2,3.824,Low
+com.facebook.lite,facebook,well,5,0,2026-07-28 05:42:57,,,play_store,well,Praise,0.45743695,1,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,611,2,1.324,Low
+com.facebook.lite,facebook,Fb lite is not strictly so. It's been mini app but great. Hopefully back to functions the features audio call and video call the chat feature.,3,0,2026-07-28 05:33:25,,,play_store,fb lite is not strictly so. it's been mini app but great. hopefully back to functions the features audio call and video call the chat feature.,Complaint,0.56995606,30,llm_ambiguity,True,True,xgboost,1,Positive,tfidf_fallback,667,1,5.02,Medium
+com.facebook.lite,facebook,👍🏽👍🏽👍🏽,5,0,2026-07-28 05:33:03,,,play_store,👍🏽👍🏽👍🏽,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,668,1,3.52,Low
+com.facebook.lite,facebook,ESTA Cul,5,0,2026-07-28 04:18:49,,,play_store,esta cul,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,673,1,3.52,Low
+com.facebook.lite,facebook,sana Ako napd,5,0,2026-07-28 04:06:09,,,play_store,sana ako napd,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,675,1,3.52,Low
+com.facebook.lite,facebook,works perfectly fine,5,0,2026-07-28 03:43:10,,,play_store,works perfectly fine,Complaint,0.46711525,2,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,677,1,3.52,Low
+com.facebook.lite,facebook,this is wow,4,0,2026-07-28 03:40:26,,,play_store,this is wow,Praise,0.5709971,4,llm_ambiguity,True,True,xgboost,0,Neutral,tfidf_fallback,678,1,1.77,Low
+com.facebook.lite,facebook,لماذا يتم حظر حساباتي,1,1,2026-07-28 03:33:21,,,play_store,لماذا يتم حظر حساباتي,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,679,1,6.866,High
+com.facebook.lite,facebook,সেরা এক,5,1,2026-07-28 03:31:05,,,play_store,সেরা এক,Complaint,0.46711525,0,translation_or_human,True,False,xgboost,0,Neutral,tfidf_fallback,680,1,3.866,Low
